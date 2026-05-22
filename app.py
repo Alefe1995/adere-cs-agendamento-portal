@@ -19,8 +19,8 @@ st.write("Sistema carregado")
 
 try:
 
-    df = pd.read_excel(
-        "data/agendamentos.xlsx"
+    df = pd.read_csv(
+        "data/agendamentos.csv"
     )
 
     st.dataframe(
