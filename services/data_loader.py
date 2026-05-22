@@ -45,8 +45,14 @@ def _file_signature(path: Path) -> tuple:
 
 @st.cache_data(show_spinner="Carregando planilha...")
 def _read_excel(path_str: str, signature: tuple) -> pd.DataFrame:
-    """O parâmetro `signature` força o cache a recarregar quando o arquivo muda."""
-    df = pd.read_excel(path_str, sheet_name="agendamentos")
+    """O parâmetro `signature` força o cache a recarregar quando o arquivo muda.
+
+    Lê a aba `agendamentos` sem depender de maiúsculas/minúsculas.
+    Se a aba não existir, usa a primeira aba do arquivo.
+    """
+    xls = pd.ExcelFile(path_str)
+    sheet = next((s for s in xls.sheet_names if s.strip().lower() == "agendamentos"), xls.sheet_names[0])
+    df = pd.read_excel(path_str, sheet_name=sheet)
     df.columns = [str(c).strip() for c in df.columns]
 
     for c in DATE_COLS:
