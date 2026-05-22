@@ -1,0 +1,1001 @@
+﻿NF;Status;Cliente;CNPJ;Cidade;UF;RC;Coordenador;Transportadora;Analista;Data_Faturamento;Data_Agendada;SLA_Dias;Tempo_Parado_Dias;Observacoes
+388389;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0015;Marcos;JSL;Gabriel;19/05/2026;01/06/2026;13;1;Registro fictício para testes
+131244;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Marcos;Rodonaves;Gabriel;29/03/2026;31/03/2026;2;0;Registro fictício para testes
+781453;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Marcos;Patrus;Gabriel;27/04/2026;10/05/2026;13;4;Registro fictício para testes
+543143;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0018;Marcos;Braspress;Bruno;02/05/2026;15/05/2026;13;1;Registro fictício para testes
+476417;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Ana;JSL;Amanda;04/04/2026;07/04/2026;3;8;Registro fictício para testes
+678856;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0041;Ricardo;Tegma;Gabriel;04/04/2026;07/04/2026;3;3;Registro fictício para testes
+338968;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Marcos;JSL;Amanda;17/05/2026;29/05/2026;12;4;Registro fictício para testes
+482554;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0024;Ana;Braspress;Bruno;02/03/2026;17/03/2026;15;10;Registro fictício para testes
+279451;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0047;Marcos;Braspress;Amanda;06/03/2026;18/03/2026;12;6;Registro fictício para testes
+684004;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0044;Ana;JSL;Fernanda;02/03/2026;15/03/2026;13;0;Registro fictício para testes
+169403;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Ricardo;Tegma;Fernanda;01/04/2026;07/04/2026;6;10;Registro fictício para testes
+581141;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Marcos;Braspress;Gabriel;02/04/2026;14/04/2026;12;8;Registro fictício para testes
+711878;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0024;Marcos;Braspress;Gabriel;09/03/2026;17/03/2026;8;7;Registro fictício para testes
+214975;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0041;Marcos;Patrus;Gabriel;16/05/2026;31/05/2026;15;1;Registro fictício para testes
+590785;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Ricardo;JSL;Pedro;04/04/2026;15/04/2026;11;10;Registro fictício para testes
+772097;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0008;Ana;Patrus;Fernanda;18/04/2026;02/05/2026;14;7;Registro fictício para testes
+898975;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0033;Marcos;Tegma;Gabriel;19/04/2026;29/04/2026;10;9;Registro fictício para testes
+899550;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0035;Ricardo;JSL;Gabriel;03/05/2026;10/05/2026;7;5;Registro fictício para testes
+480612;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Marcos;Braspress;Gabriel;20/05/2026;23/05/2026;3;1;Registro fictício para testes
+172574;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0050;Marcos;Braspress;Amanda;21/03/2026;05/04/2026;15;8;Registro fictício para testes
+736059;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0014;Ricardo;Braspress;Bruno;19/04/2026;29/04/2026;10;6;Registro fictício para testes
+573417;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Marcos;JSL;Bruno;27/03/2026;06/04/2026;10;0;Registro fictício para testes
+717024;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0001;Marcos;JSL;Fernanda;13/03/2026;18/03/2026;5;1;Registro fictício para testes
+639131;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0018;Ricardo;Patrus;Fernanda;10/04/2026;13/04/2026;3;8;Registro fictício para testes
+595631;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0031;Ana;Braspress;Pedro;10/03/2026;21/03/2026;11;1;Registro fictício para testes
+531071;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Marcos;JSL;Pedro;07/04/2026;15/04/2026;8;6;Registro fictício para testes
+300896;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0035;Ana;Braspress;Amanda;09/05/2026;14/05/2026;5;2;Registro fictício para testes
+179046;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0036;Marcos;JSL;Gabriel;24/03/2026;29/03/2026;5;0;Registro fictício para testes
+526156;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0031;Marcos;Patrus;Pedro;22/04/2026;26/04/2026;4;2;Registro fictício para testes
+378085;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0019;Ana;Rodonaves;Amanda;22/05/2026;30/05/2026;8;2;Registro fictício para testes
+161324;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0004;Ricardo;Tegma;Pedro;15/04/2026;20/04/2026;5;0;Registro fictício para testes
+994141;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Marcos;Rodonaves;Pedro;22/03/2026;01/04/2026;10;2;Registro fictício para testes
+808011;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0026;Marcos;Rodonaves;Fernanda;07/03/2026;10/03/2026;3;9;Registro fictício para testes
+185965;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0043;Ricardo;Rodonaves;Gabriel;17/05/2026;28/05/2026;11;5;Registro fictício para testes
+850981;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ana;Patrus;Fernanda;26/04/2026;08/05/2026;12;10;Registro fictício para testes
+888387;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0001;Ana;Rodonaves;Gabriel;25/03/2026;01/04/2026;7;1;Registro fictício para testes
+630458;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0009;Ana;JSL;Fernanda;15/03/2026;20/03/2026;5;5;Registro fictício para testes
+974244;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ana;Rodonaves;Gabriel;02/05/2026;11/05/2026;9;0;Registro fictício para testes
+208618;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Marcos;JSL;Gabriel;14/04/2026;26/04/2026;12;2;Registro fictício para testes
+320861;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0014;Ricardo;Tegma;Gabriel;16/04/2026;27/04/2026;11;7;Registro fictício para testes
+765095;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0018;Marcos;JSL;Bruno;16/05/2026;19/05/2026;3;2;Registro fictício para testes
+563298;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ana;Rodonaves;Pedro;02/05/2026;15/05/2026;13;1;Registro fictício para testes
+672092;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0024;Ricardo;Rodonaves;Fernanda;23/02/2026;27/02/2026;4;6;Registro fictício para testes
+482364;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0023;Marcos;Braspress;Pedro;17/05/2026;23/05/2026;6;5;Registro fictício para testes
+885884;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0016;Marcos;Braspress;Amanda;31/03/2026;11/04/2026;11;0;Registro fictício para testes
+531712;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Marcos;JSL;Amanda;10/04/2026;24/04/2026;14;0;Registro fictício para testes
+956253;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0023;Ana;Braspress;Fernanda;24/04/2026;29/04/2026;5;0;Registro fictício para testes
+392136;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0050;Ana;Tegma;Gabriel;01/04/2026;08/04/2026;7;6;Registro fictício para testes
+220944;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0012;Ricardo;Tegma;Pedro;10/04/2026;12/04/2026;2;1;Registro fictício para testes
+863934;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0028;Ricardo;Rodonaves;Pedro;28/03/2026;04/04/2026;7;6;Registro fictício para testes
+146542;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0001;Ricardo;Rodonaves;Fernanda;28/04/2026;04/05/2026;6;5;Registro fictício para testes
+446239;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0043;Marcos;Tegma;Gabriel;14/05/2026;26/05/2026;12;4;Registro fictício para testes
+831076;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0036;Marcos;Braspress;Amanda;11/04/2026;19/04/2026;8;10;Registro fictício para testes
+282480;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0026;Ricardo;JSL;Bruno;25/02/2026;10/03/2026;13;4;Registro fictício para testes
+708158;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0030;Ana;Patrus;Fernanda;28/03/2026;11/04/2026;14;8;Registro fictício para testes
+188914;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0033;Ricardo;Rodonaves;Bruno;01/05/2026;13/05/2026;12;1;Registro fictício para testes
+335552;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Marcos;JSL;Fernanda;25/02/2026;03/03/2026;6;7;Registro fictício para testes
+534572;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Ricardo;Patrus;Amanda;13/05/2026;22/05/2026;9;6;Registro fictício para testes
+821024;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0049;Marcos;Patrus;Fernanda;04/05/2026;16/05/2026;12;2;Registro fictício para testes
+684482;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0008;Ana;Braspress;Amanda;24/03/2026;26/03/2026;2;10;Registro fictício para testes
+432711;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ricardo;Rodonaves;Amanda;12/03/2026;23/03/2026;11;8;Registro fictício para testes
+597732;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Marcos;Tegma;Gabriel;02/05/2026;15/05/2026;13;7;Registro fictício para testes
+181247;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0016;Ana;Tegma;Bruno;17/04/2026;26/04/2026;9;8;Registro fictício para testes
+342495;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Marcos;Braspress;Pedro;05/05/2026;09/05/2026;4;6;Registro fictício para testes
+588557;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Marcos;Patrus;Amanda;10/04/2026;20/04/2026;10;9;Registro fictício para testes
+600149;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Ana;Patrus;Amanda;10/03/2026;18/03/2026;8;8;Registro fictício para testes
+611945;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0018;Ana;Patrus;Pedro;06/03/2026;11/03/2026;5;6;Registro fictício para testes
+936912;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0047;Marcos;Patrus;Fernanda;26/02/2026;10/03/2026;12;9;Registro fictício para testes
+720644;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Ricardo;Patrus;Fernanda;19/05/2026;27/05/2026;8;7;Registro fictício para testes
+497519;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0014;Ana;Tegma;Bruno;16/05/2026;22/05/2026;6;6;Registro fictício para testes
+975467;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Marcos;Rodonaves;Pedro;30/03/2026;05/04/2026;6;5;Registro fictício para testes
+919182;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0049;Marcos;Braspress;Fernanda;28/02/2026;03/03/2026;3;0;Registro fictício para testes
+232352;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0043;Marcos;Rodonaves;Fernanda;03/05/2026;08/05/2026;5;7;Registro fictício para testes
+735324;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0050;Marcos;Tegma;Pedro;05/04/2026;09/04/2026;4;9;Registro fictício para testes
+810250;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0026;Ricardo;Braspress;Pedro;13/04/2026;24/04/2026;11;9;Registro fictício para testes
+910004;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0044;Ricardo;JSL;Gabriel;09/05/2026;22/05/2026;13;0;Registro fictício para testes
+793655;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0005;Ricardo;Tegma;Pedro;15/03/2026;23/03/2026;8;6;Registro fictício para testes
+479781;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Marcos;Patrus;Fernanda;09/05/2026;17/05/2026;8;8;Registro fictício para testes
+664315;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0030;Ana;Rodonaves;Bruno;05/03/2026;19/03/2026;14;5;Registro fictício para testes
+572700;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0049;Ana;Rodonaves;Gabriel;11/05/2026;17/05/2026;6;10;Registro fictício para testes
+618317;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0012;Ana;Braspress;Bruno;09/04/2026;11/04/2026;2;4;Registro fictício para testes
+835244;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0036;Marcos;Rodonaves;Fernanda;17/04/2026;28/04/2026;11;1;Registro fictício para testes
+682144;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Ana;Patrus;Amanda;31/03/2026;09/04/2026;9;0;Registro fictício para testes
+524045;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0020;Ricardo;Rodonaves;Bruno;15/04/2026;20/04/2026;5;7;Registro fictício para testes
+546173;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0022;Ana;Patrus;Bruno;16/03/2026;23/03/2026;7;4;Registro fictício para testes
+856321;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0021;Marcos;Rodonaves;Fernanda;23/04/2026;26/04/2026;3;3;Registro fictício para testes
+859782;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0039;Ana;JSL;Fernanda;22/03/2026;28/03/2026;6;4;Registro fictício para testes
+416950;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ricardo;Braspress;Bruno;06/04/2026;10/04/2026;4;0;Registro fictício para testes
+831295;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0041;Ana;JSL;Pedro;13/03/2026;19/03/2026;6;9;Registro fictício para testes
+561865;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Marcos;Tegma;Amanda;23/03/2026;01/04/2026;9;1;Registro fictício para testes
+177680;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0010;Marcos;Rodonaves;Bruno;01/04/2026;10/04/2026;9;1;Registro fictício para testes
+901577;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0039;Ricardo;Rodonaves;Fernanda;07/05/2026;17/05/2026;10;8;Registro fictício para testes
+411797;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ricardo;Rodonaves;Pedro;26/03/2026;04/04/2026;9;9;Registro fictício para testes
+321275;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0043;Marcos;Braspress;Fernanda;26/04/2026;08/05/2026;12;2;Registro fictício para testes
+102805;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0029;Ricardo;Rodonaves;Amanda;13/05/2026;17/05/2026;4;4;Registro fictício para testes
+841296;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ana;JSL;Fernanda;23/04/2026;29/04/2026;6;4;Registro fictício para testes
+307428;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0008;Ricardo;Braspress;Fernanda;27/02/2026;13/03/2026;14;4;Registro fictício para testes
+273982;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0039;Ricardo;Rodonaves;Bruno;13/05/2026;15/05/2026;2;7;Registro fictício para testes
+418862;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0018;Ricardo;Rodonaves;Amanda;24/03/2026;06/04/2026;13;7;Registro fictício para testes
+553014;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Ana;JSL;Pedro;07/03/2026;09/03/2026;2;3;Registro fictício para testes
+901909;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0037;Marcos;Braspress;Amanda;08/03/2026;10/03/2026;2;8;Registro fictício para testes
+713762;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Ana;JSL;Amanda;17/04/2026;21/04/2026;4;5;Registro fictício para testes
+802685;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Ana;Patrus;Amanda;10/04/2026;17/04/2026;7;4;Registro fictício para testes
+576919;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ana;Tegma;Pedro;13/03/2026;15/03/2026;2;6;Registro fictício para testes
+668950;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Marcos;Braspress;Gabriel;22/05/2026;03/06/2026;12;5;Registro fictício para testes
+563513;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ana;Rodonaves;Fernanda;20/03/2026;01/04/2026;12;4;Registro fictício para testes
+227324;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Ricardo;Braspress;Fernanda;22/02/2026;03/03/2026;9;4;Registro fictício para testes
+527809;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0015;Marcos;Patrus;Pedro;21/05/2026;31/05/2026;10;10;Registro fictício para testes
+406039;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ana;Patrus;Amanda;20/03/2026;02/04/2026;13;7;Registro fictício para testes
+251668;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0013;Ricardo;Rodonaves;Fernanda;25/03/2026;04/04/2026;10;1;Registro fictício para testes
+925981;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0018;Marcos;Tegma;Bruno;30/03/2026;06/04/2026;7;9;Registro fictício para testes
+255813;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ana;Tegma;Bruno;27/02/2026;08/03/2026;9;8;Registro fictício para testes
+437408;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0045;Marcos;Rodonaves;Amanda;04/04/2026;13/04/2026;9;3;Registro fictício para testes
+880879;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;Patrus;Fernanda;17/05/2026;24/05/2026;7;7;Registro fictício para testes
+718849;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Ana;JSL;Gabriel;06/05/2026;16/05/2026;10;7;Registro fictício para testes
+786587;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Ana;Tegma;Bruno;04/05/2026;12/05/2026;8;9;Registro fictício para testes
+993140;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Ricardo;Patrus;Bruno;28/02/2026;03/03/2026;3;10;Registro fictício para testes
+747453;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Ricardo;Tegma;Fernanda;14/03/2026;16/03/2026;2;1;Registro fictício para testes
+764532;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Marcos;Tegma;Pedro;10/05/2026;24/05/2026;14;0;Registro fictício para testes
+475876;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0028;Marcos;Braspress;Gabriel;15/05/2026;21/05/2026;6;6;Registro fictício para testes
+288803;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0012;Marcos;Rodonaves;Amanda;24/02/2026;10/03/2026;14;9;Registro fictício para testes
+250069;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0030;Ricardo;Tegma;Amanda;20/03/2026;31/03/2026;11;4;Registro fictício para testes
+810526;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0011;Marcos;Patrus;Bruno;24/03/2026;30/03/2026;6;9;Registro fictício para testes
+823846;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0030;Ana;Braspress;Amanda;02/03/2026;10/03/2026;8;7;Registro fictício para testes
+699704;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0037;Ana;Tegma;Pedro;22/04/2026;30/04/2026;8;10;Registro fictício para testes
+693419;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0039;Ricardo;Patrus;Bruno;17/04/2026;19/04/2026;2;3;Registro fictício para testes
+767542;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ana;Braspress;Pedro;07/04/2026;12/04/2026;5;10;Registro fictício para testes
+562236;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0038;Ana;Braspress;Pedro;13/04/2026;27/04/2026;14;4;Registro fictício para testes
+310548;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0035;Ana;Rodonaves;Gabriel;30/03/2026;03/04/2026;4;4;Registro fictício para testes
+605254;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0048;Ana;JSL;Amanda;20/04/2026;05/05/2026;15;1;Registro fictício para testes
+809176;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0036;Ana;JSL;Amanda;24/04/2026;09/05/2026;15;0;Registro fictício para testes
+576877;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0044;Ricardo;Tegma;Gabriel;15/03/2026;18/03/2026;3;6;Registro fictício para testes
+345180;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Ricardo;Rodonaves;Bruno;09/05/2026;21/05/2026;12;9;Registro fictício para testes
+766269;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Ana;Patrus;Pedro;01/03/2026;04/03/2026;3;2;Registro fictício para testes
+616554;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Marcos;Rodonaves;Fernanda;18/05/2026;24/05/2026;6;6;Registro fictício para testes
+879238;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0027;Ricardo;Braspress;Amanda;05/04/2026;17/04/2026;12;10;Registro fictício para testes
+527940;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0003;Ricardo;Tegma;Fernanda;21/03/2026;01/04/2026;11;7;Registro fictício para testes
+480303;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Ana;Rodonaves;Bruno;22/04/2026;07/05/2026;15;0;Registro fictício para testes
+228093;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Ricardo;Braspress;Gabriel;17/04/2026;22/04/2026;5;0;Registro fictício para testes
+232040;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Ricardo;Braspress;Gabriel;10/04/2026;15/04/2026;5;3;Registro fictício para testes
+254721;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Marcos;Braspress;Gabriel;10/04/2026;24/04/2026;14;4;Registro fictício para testes
+127032;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0001;Ana;Braspress;Gabriel;08/05/2026;20/05/2026;12;5;Registro fictício para testes
+154944;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0048;Ana;Rodonaves;Pedro;30/04/2026;06/05/2026;6;1;Registro fictício para testes
+479625;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0038;Marcos;Patrus;Gabriel;26/03/2026;09/04/2026;14;3;Registro fictício para testes
+921273;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0020;Ana;JSL;Pedro;17/05/2026;30/05/2026;13;7;Registro fictício para testes
+213206;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;JSL;Pedro;29/03/2026;10/04/2026;12;5;Registro fictício para testes
+232321;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ricardo;Rodonaves;Gabriel;04/05/2026;07/05/2026;3;5;Registro fictício para testes
+409222;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0033;Ricardo;Patrus;Pedro;07/03/2026;17/03/2026;10;1;Registro fictício para testes
+573489;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Ana;Patrus;Amanda;25/04/2026;03/05/2026;8;6;Registro fictício para testes
+427704;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0024;Marcos;Patrus;Pedro;12/04/2026;20/04/2026;8;1;Registro fictício para testes
+201255;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0009;Ricardo;JSL;Gabriel;11/05/2026;19/05/2026;8;8;Registro fictício para testes
+228168;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Ricardo;Patrus;Pedro;10/04/2026;22/04/2026;12;4;Registro fictício para testes
+208633;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Marcos;Patrus;Fernanda;13/04/2026;20/04/2026;7;1;Registro fictício para testes
+220465;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Marcos;Patrus;Gabriel;12/03/2026;19/03/2026;7;9;Registro fictício para testes
+683783;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0039;Ricardo;Tegma;Pedro;25/02/2026;09/03/2026;12;2;Registro fictício para testes
+423993;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0023;Marcos;Braspress;Fernanda;22/02/2026;08/03/2026;14;9;Registro fictício para testes
+876962;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Ricardo;Rodonaves;Fernanda;14/05/2026;18/05/2026;4;6;Registro fictício para testes
+265055;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ricardo;Tegma;Gabriel;25/03/2026;01/04/2026;7;9;Registro fictício para testes
+265056;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Marcos;Tegma;Amanda;16/05/2026;20/05/2026;4;10;Registro fictício para testes
+563516;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0018;Marcos;Rodonaves;Pedro;21/03/2026;01/04/2026;11;5;Registro fictício para testes
+811163;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Ricardo;Tegma;Pedro;08/05/2026;14/05/2026;6;3;Registro fictício para testes
+108060;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Marcos;Braspress;Bruno;07/03/2026;09/03/2026;2;4;Registro fictício para testes
+621546;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Marcos;Patrus;Gabriel;07/05/2026;09/05/2026;2;3;Registro fictício para testes
+800499;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Ana;JSL;Amanda;12/03/2026;27/03/2026;15;0;Registro fictício para testes
+428267;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Ana;Patrus;Bruno;13/05/2026;28/05/2026;15;1;Registro fictício para testes
+280222;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0045;Ana;JSL;Amanda;20/05/2026;27/05/2026;7;1;Registro fictício para testes
+519902;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Ana;Tegma;Bruno;28/03/2026;08/04/2026;11;3;Registro fictício para testes
+635280;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0034;Ricardo;Braspress;Bruno;01/05/2026;04/05/2026;3;5;Registro fictício para testes
+253557;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0013;Marcos;Rodonaves;Fernanda;22/04/2026;25/04/2026;3;10;Registro fictício para testes
+758452;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0030;Ricardo;Rodonaves;Amanda;30/04/2026;14/05/2026;14;10;Registro fictício para testes
+754858;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0041;Ana;Braspress;Amanda;01/03/2026;13/03/2026;12;1;Registro fictício para testes
+417530;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0038;Marcos;Tegma;Gabriel;27/03/2026;08/04/2026;12;1;Registro fictício para testes
+139434;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0024;Ana;JSL;Pedro;24/03/2026;02/04/2026;9;9;Registro fictício para testes
+585188;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0048;Marcos;Patrus;Gabriel;19/03/2026;27/03/2026;8;10;Registro fictício para testes
+598733;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Marcos;Patrus;Pedro;11/04/2026;22/04/2026;11;5;Registro fictício para testes
+280941;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0016;Ricardo;Patrus;Amanda;19/03/2026;31/03/2026;12;8;Registro fictício para testes
+481574;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;Patrus;Bruno;05/03/2026;09/03/2026;4;10;Registro fictício para testes
+761532;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Ana;JSL;Gabriel;16/05/2026;30/05/2026;14;10;Registro fictício para testes
+858889;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0022;Marcos;Rodonaves;Fernanda;16/04/2026;22/04/2026;6;5;Registro fictício para testes
+794299;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0009;Ricardo;JSL;Bruno;28/02/2026;13/03/2026;13;8;Registro fictício para testes
+444432;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0043;Ricardo;Rodonaves;Pedro;01/03/2026;15/03/2026;14;10;Registro fictício para testes
+119116;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Marcos;Braspress;Bruno;18/03/2026;25/03/2026;7;7;Registro fictício para testes
+262471;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0019;Marcos;Rodonaves;Gabriel;24/04/2026;28/04/2026;4;8;Registro fictício para testes
+903531;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Ana;Braspress;Fernanda;27/02/2026;06/03/2026;7;2;Registro fictício para testes
+558933;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Ana;Braspress;Amanda;01/05/2026;14/05/2026;13;9;Registro fictício para testes
+659951;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0020;Ana;Braspress;Bruno;26/03/2026;31/03/2026;5;10;Registro fictício para testes
+906814;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0050;Ana;Rodonaves;Gabriel;27/03/2026;05/04/2026;9;6;Registro fictício para testes
+734035;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Marcos;Patrus;Bruno;27/04/2026;11/05/2026;14;8;Registro fictício para testes
+230734;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Marcos;Tegma;Amanda;17/03/2026;01/04/2026;15;8;Registro fictício para testes
+332823;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0023;Marcos;Patrus;Pedro;28/03/2026;31/03/2026;3;6;Registro fictício para testes
+504924;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0024;Marcos;JSL;Bruno;05/04/2026;10/04/2026;5;1;Registro fictício para testes
+140163;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Ricardo;Braspress;Amanda;04/05/2026;08/05/2026;4;7;Registro fictício para testes
+119927;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Marcos;Rodonaves;Gabriel;22/05/2026;25/05/2026;3;8;Registro fictício para testes
+402096;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Marcos;JSL;Fernanda;08/05/2026;22/05/2026;14;6;Registro fictício para testes
+216242;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0039;Ricardo;JSL;Gabriel;25/03/2026;28/03/2026;3;9;Registro fictício para testes
+550089;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0040;Ana;Braspress;Gabriel;04/05/2026;10/05/2026;6;6;Registro fictício para testes
+189772;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0024;Marcos;Rodonaves;Gabriel;26/02/2026;10/03/2026;12;8;Registro fictício para testes
+509420;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0003;Ricardo;Patrus;Bruno;13/03/2026;15/03/2026;2;4;Registro fictício para testes
+170841;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0016;Ricardo;JSL;Gabriel;07/04/2026;21/04/2026;14;5;Registro fictício para testes
+672536;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0042;Marcos;Patrus;Amanda;17/05/2026;24/05/2026;7;10;Registro fictício para testes
+850827;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0003;Ana;Braspress;Pedro;05/05/2026;08/05/2026;3;3;Registro fictício para testes
+640418;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0035;Ana;Tegma;Pedro;12/04/2026;18/04/2026;6;10;Registro fictício para testes
+918771;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0042;Ana;Tegma;Pedro;16/04/2026;23/04/2026;7;5;Registro fictício para testes
+561097;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0022;Marcos;Patrus;Amanda;01/04/2026;14/04/2026;13;5;Registro fictício para testes
+186624;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Ana;Rodonaves;Fernanda;18/04/2026;02/05/2026;14;8;Registro fictício para testes
+183958;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0043;Ana;Tegma;Amanda;11/04/2026;14/04/2026;3;9;Registro fictício para testes
+565471;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Marcos;Tegma;Gabriel;01/05/2026;14/05/2026;13;6;Registro fictício para testes
+160144;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0043;Ricardo;Patrus;Bruno;02/03/2026;16/03/2026;14;8;Registro fictício para testes
+989894;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0003;Marcos;JSL;Fernanda;19/05/2026;23/05/2026;4;10;Registro fictício para testes
+694799;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0039;Marcos;Patrus;Bruno;06/04/2026;14/04/2026;8;5;Registro fictício para testes
+244383;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0024;Ana;Tegma;Bruno;13/05/2026;24/05/2026;11;3;Registro fictício para testes
+295085;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0034;Ana;Rodonaves;Pedro;19/05/2026;01/06/2026;13;4;Registro fictício para testes
+324993;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0045;Ana;Braspress;Pedro;21/02/2026;02/03/2026;9;2;Registro fictício para testes
+848022;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Ricardo;Tegma;Bruno;26/03/2026;30/03/2026;4;1;Registro fictício para testes
+414527;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Ricardo;Braspress;Bruno;14/03/2026;20/03/2026;6;8;Registro fictício para testes
+930541;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0016;Ana;JSL;Bruno;07/05/2026;12/05/2026;5;8;Registro fictício para testes
+942700;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Ricardo;JSL;Pedro;05/04/2026;14/04/2026;9;4;Registro fictício para testes
+530749;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Marcos;Braspress;Bruno;22/03/2026;01/04/2026;10;10;Registro fictício para testes
+813145;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Marcos;Rodonaves;Gabriel;26/03/2026;04/04/2026;9;2;Registro fictício para testes
+158104;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0034;Marcos;Tegma;Fernanda;28/03/2026;07/04/2026;10;2;Registro fictício para testes
+462831;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0019;Marcos;Tegma;Fernanda;21/02/2026;26/02/2026;5;10;Registro fictício para testes
+755383;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ricardo;JSL;Gabriel;17/04/2026;21/04/2026;4;10;Registro fictício para testes
+261684;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0043;Ricardo;Rodonaves;Bruno;08/03/2026;19/03/2026;11;9;Registro fictício para testes
+147670;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0042;Marcos;Rodonaves;Amanda;19/05/2026;22/05/2026;3;9;Registro fictício para testes
+672079;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0042;Ana;Patrus;Fernanda;20/03/2026;01/04/2026;12;10;Registro fictício para testes
+176517;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Ana;Patrus;Amanda;14/04/2026;23/04/2026;9;7;Registro fictício para testes
+250647;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ana;Tegma;Amanda;09/04/2026;20/04/2026;11;2;Registro fictício para testes
+211341;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ana;JSL;Bruno;18/03/2026;28/03/2026;10;7;Registro fictício para testes
+153063;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0025;Ricardo;Patrus;Fernanda;04/05/2026;07/05/2026;3;2;Registro fictício para testes
+427905;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0049;Marcos;Patrus;Gabriel;10/03/2026;23/03/2026;13;7;Registro fictício para testes
+124302;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0026;Ricardo;Patrus;Fernanda;13/04/2026;22/04/2026;9;3;Registro fictício para testes
+152995;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0032;Ricardo;Patrus;Bruno;07/04/2026;09/04/2026;2;8;Registro fictício para testes
+240440;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0047;Ana;Patrus;Bruno;09/05/2026;17/05/2026;8;0;Registro fictício para testes
+689107;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0024;Ricardo;Tegma;Pedro;16/05/2026;27/05/2026;11;6;Registro fictício para testes
+676566;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ricardo;Rodonaves;Pedro;26/03/2026;09/04/2026;14;2;Registro fictício para testes
+933510;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0036;Ana;Braspress;Fernanda;02/04/2026;09/04/2026;7;9;Registro fictício para testes
+142210;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0003;Marcos;Tegma;Amanda;01/04/2026;11/04/2026;10;8;Registro fictício para testes
+640546;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ricardo;Tegma;Fernanda;03/05/2026;14/05/2026;11;6;Registro fictício para testes
+452713;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0033;Ricardo;Patrus;Gabriel;14/04/2026;25/04/2026;11;4;Registro fictício para testes
+447329;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0027;Ricardo;Tegma;Pedro;20/05/2026;27/05/2026;7;9;Registro fictício para testes
+920934;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Marcos;Rodonaves;Amanda;19/04/2026;01/05/2026;12;2;Registro fictício para testes
+749840;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0010;Ricardo;Braspress;Pedro;03/03/2026;16/03/2026;13;9;Registro fictício para testes
+562462;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0027;Marcos;Patrus;Fernanda;28/04/2026;30/04/2026;2;6;Registro fictício para testes
+989587;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Marcos;Rodonaves;Fernanda;05/03/2026;14/03/2026;9;8;Registro fictício para testes
+651002;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0021;Marcos;Patrus;Gabriel;27/02/2026;08/03/2026;9;5;Registro fictício para testes
+909489;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ana;Braspress;Fernanda;07/04/2026;19/04/2026;12;4;Registro fictício para testes
+412071;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Marcos;Patrus;Bruno;14/04/2026;19/04/2026;5;7;Registro fictício para testes
+856719;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0019;Marcos;Rodonaves;Gabriel;12/03/2026;26/03/2026;14;6;Registro fictício para testes
+943700;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0019;Marcos;Tegma;Pedro;08/04/2026;22/04/2026;14;5;Registro fictício para testes
+883641;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0014;Marcos;Rodonaves;Bruno;28/02/2026;06/03/2026;6;8;Registro fictício para testes
+745584;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Marcos;Rodonaves;Fernanda;05/05/2026;08/05/2026;3;10;Registro fictício para testes
+533377;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ana;JSL;Fernanda;16/05/2026;19/05/2026;3;0;Registro fictício para testes
+784607;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0031;Ricardo;Braspress;Bruno;02/05/2026;10/05/2026;8;5;Registro fictício para testes
+906066;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0042;Ricardo;Braspress;Gabriel;01/03/2026;03/03/2026;2;0;Registro fictício para testes
+284327;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Ana;Braspress;Bruno;30/03/2026;14/04/2026;15;0;Registro fictício para testes
+732063;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0022;Ana;Patrus;Gabriel;14/04/2026;25/04/2026;11;8;Registro fictício para testes
+628705;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0018;Marcos;JSL;Bruno;05/05/2026;20/05/2026;15;2;Registro fictício para testes
+853504;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0001;Ricardo;Tegma;Bruno;01/03/2026;07/03/2026;6;9;Registro fictício para testes
+997734;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0028;Ricardo;Tegma;Pedro;30/04/2026;11/05/2026;11;6;Registro fictício para testes
+600646;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0016;Marcos;Tegma;Amanda;29/04/2026;03/05/2026;4;3;Registro fictício para testes
+416613;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Ricardo;Tegma;Fernanda;18/04/2026;25/04/2026;7;0;Registro fictício para testes
+267475;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ricardo;Tegma;Pedro;24/03/2026;30/03/2026;6;10;Registro fictício para testes
+331577;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0009;Ana;Braspress;Amanda;05/04/2026;16/04/2026;11;9;Registro fictício para testes
+675914;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0049;Ricardo;Braspress;Fernanda;30/03/2026;12/04/2026;13;10;Registro fictício para testes
+568449;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Ana;JSL;Gabriel;12/05/2026;22/05/2026;10;1;Registro fictício para testes
+311976;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0010;Marcos;Tegma;Gabriel;13/03/2026;23/03/2026;10;7;Registro fictício para testes
+851742;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Ricardo;Patrus;Pedro;24/02/2026;01/03/2026;5;7;Registro fictício para testes
+578987;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0036;Ana;Tegma;Pedro;18/03/2026;26/03/2026;8;6;Registro fictício para testes
+328486;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ana;Tegma;Pedro;22/05/2026;04/06/2026;13;8;Registro fictício para testes
+133276;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0027;Marcos;Braspress;Amanda;14/05/2026;23/05/2026;9;5;Registro fictício para testes
+495833;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Ricardo;Rodonaves;Fernanda;26/03/2026;10/04/2026;15;10;Registro fictício para testes
+663356;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0034;Marcos;Braspress;Pedro;07/05/2026;11/05/2026;4;0;Registro fictício para testes
+854024;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0028;Ricardo;Patrus;Fernanda;24/03/2026;05/04/2026;12;3;Registro fictício para testes
+389039;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Marcos;JSL;Amanda;08/04/2026;12/04/2026;4;9;Registro fictício para testes
+170559;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Marcos;Patrus;Gabriel;22/04/2026;27/04/2026;5;10;Registro fictício para testes
+146385;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0029;Marcos;Rodonaves;Fernanda;21/04/2026;04/05/2026;13;0;Registro fictício para testes
+345536;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0037;Ricardo;Tegma;Fernanda;19/03/2026;25/03/2026;6;4;Registro fictício para testes
+331780;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0020;Ana;JSL;Gabriel;27/02/2026;09/03/2026;10;9;Registro fictício para testes
+547952;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0032;Marcos;Tegma;Amanda;03/03/2026;15/03/2026;12;8;Registro fictício para testes
+528090;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0020;Ana;Braspress;Gabriel;22/02/2026;02/03/2026;8;7;Registro fictício para testes
+999197;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0030;Marcos;Rodonaves;Amanda;24/04/2026;30/04/2026;6;6;Registro fictício para testes
+507286;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Marcos;Tegma;Pedro;16/03/2026;20/03/2026;4;7;Registro fictício para testes
+859782;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Ana;Patrus;Gabriel;11/05/2026;21/05/2026;10;9;Registro fictício para testes
+943737;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0014;Ana;Braspress;Bruno;13/05/2026;18/05/2026;5;4;Registro fictício para testes
+877493;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0048;Ana;Braspress;Gabriel;25/04/2026;30/04/2026;5;3;Registro fictício para testes
+437237;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0025;Ana;Rodonaves;Bruno;22/04/2026;02/05/2026;10;4;Registro fictício para testes
+621433;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0007;Ricardo;Patrus;Bruno;06/04/2026;16/04/2026;10;3;Registro fictício para testes
+147936;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0048;Marcos;JSL;Bruno;12/04/2026;20/04/2026;8;8;Registro fictício para testes
+537862;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0010;Marcos;Tegma;Fernanda;09/03/2026;22/03/2026;13;6;Registro fictício para testes
+677390;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Ana;Patrus;Amanda;21/04/2026;30/04/2026;9;2;Registro fictício para testes
+855303;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0032;Marcos;Rodonaves;Pedro;01/05/2026;05/05/2026;4;8;Registro fictício para testes
+800674;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0049;Marcos;Patrus;Fernanda;13/05/2026;28/05/2026;15;10;Registro fictício para testes
+258366;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0014;Ricardo;Patrus;Bruno;14/05/2026;27/05/2026;13;0;Registro fictício para testes
+746467;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0043;Ana;JSL;Pedro;02/03/2026;14/03/2026;12;8;Registro fictício para testes
+117538;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0047;Ana;Rodonaves;Bruno;31/03/2026;02/04/2026;2;0;Registro fictício para testes
+551488;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0007;Marcos;Rodonaves;Fernanda;22/02/2026;06/03/2026;12;3;Registro fictício para testes
+364679;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Ana;JSL;Bruno;04/03/2026;14/03/2026;10;6;Registro fictício para testes
+831105;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ricardo;JSL;Pedro;11/03/2026;16/03/2026;5;1;Registro fictício para testes
+679549;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Ricardo;JSL;Fernanda;04/04/2026;12/04/2026;8;1;Registro fictício para testes
+922478;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Marcos;Rodonaves;Pedro;28/03/2026;09/04/2026;12;3;Registro fictício para testes
+598598;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0003;Marcos;Tegma;Gabriel;23/02/2026;06/03/2026;11;9;Registro fictício para testes
+429761;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0014;Ricardo;Braspress;Amanda;30/04/2026;15/05/2026;15;1;Registro fictício para testes
+352153;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0044;Ricardo;Tegma;Amanda;02/05/2026;13/05/2026;11;2;Registro fictício para testes
+462659;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Ana;Braspress;Pedro;19/03/2026;01/04/2026;13;5;Registro fictício para testes
+515973;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0002;Ricardo;Tegma;Amanda;05/03/2026;16/03/2026;11;7;Registro fictício para testes
+493663;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0012;Ricardo;Rodonaves;Amanda;07/04/2026;17/04/2026;10;1;Registro fictício para testes
+358421;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Ana;Braspress;Amanda;15/04/2026;29/04/2026;14;10;Registro fictício para testes
+478221;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Marcos;Tegma;Amanda;03/04/2026;10/04/2026;7;5;Registro fictício para testes
+191537;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0028;Ana;Rodonaves;Gabriel;09/05/2026;13/05/2026;4;8;Registro fictício para testes
+193972;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0036;Marcos;Rodonaves;Gabriel;09/05/2026;11/05/2026;2;5;Registro fictício para testes
+533911;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0050;Marcos;Rodonaves;Fernanda;21/05/2026;27/05/2026;6;9;Registro fictício para testes
+499226;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Ana;Tegma;Bruno;01/05/2026;13/05/2026;12;7;Registro fictício para testes
+555791;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0027;Ana;Patrus;Pedro;14/05/2026;18/05/2026;4;5;Registro fictício para testes
+755395;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0039;Ricardo;Braspress;Amanda;21/04/2026;04/05/2026;13;1;Registro fictício para testes
+514913;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0040;Ana;Tegma;Amanda;14/04/2026;16/04/2026;2;5;Registro fictício para testes
+242736;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ricardo;Braspress;Amanda;28/02/2026;11/03/2026;11;5;Registro fictício para testes
+405605;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0037;Marcos;Tegma;Amanda;02/04/2026;09/04/2026;7;4;Registro fictício para testes
+691240;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0038;Ricardo;Braspress;Gabriel;06/04/2026;09/04/2026;3;0;Registro fictício para testes
+559753;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0045;Marcos;Patrus;Amanda;21/02/2026;26/02/2026;5;2;Registro fictício para testes
+790658;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ana;Patrus;Pedro;22/04/2026;28/04/2026;6;7;Registro fictício para testes
+520274;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0033;Ricardo;Patrus;Gabriel;22/03/2026;02/04/2026;11;0;Registro fictício para testes
+662986;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0007;Marcos;Tegma;Fernanda;22/02/2026;08/03/2026;14;10;Registro fictício para testes
+776364;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Ana;Patrus;Pedro;17/05/2026;28/05/2026;11;0;Registro fictício para testes
+635482;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0036;Ricardo;Rodonaves;Fernanda;19/04/2026;24/04/2026;5;7;Registro fictício para testes
+909859;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0010;Ana;JSL;Amanda;02/04/2026;11/04/2026;9;1;Registro fictício para testes
+221707;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0023;Ana;Tegma;Amanda;30/03/2026;02/04/2026;3;3;Registro fictício para testes
+599292;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0029;Ricardo;Patrus;Bruno;22/03/2026;29/03/2026;7;1;Registro fictício para testes
+845305;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Ana;JSL;Fernanda;17/05/2026;31/05/2026;14;3;Registro fictício para testes
+267914;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0036;Ana;Patrus;Fernanda;30/04/2026;10/05/2026;10;6;Registro fictício para testes
+789237;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Marcos;Rodonaves;Fernanda;29/04/2026;11/05/2026;12;7;Registro fictício para testes
+104666;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ana;JSL;Gabriel;29/03/2026;06/04/2026;8;1;Registro fictício para testes
+441819;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0030;Marcos;Tegma;Amanda;29/04/2026;06/05/2026;7;8;Registro fictício para testes
+741003;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0038;Marcos;Tegma;Bruno;07/03/2026;15/03/2026;8;7;Registro fictício para testes
+806309;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ricardo;JSL;Fernanda;30/04/2026;15/05/2026;15;5;Registro fictício para testes
+222629;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0024;Ricardo;Braspress;Gabriel;22/04/2026;28/04/2026;6;6;Registro fictício para testes
+702727;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0028;Marcos;Patrus;Gabriel;07/03/2026;11/03/2026;4;10;Registro fictício para testes
+613426;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Marcos;Tegma;Amanda;12/03/2026;16/03/2026;4;9;Registro fictício para testes
+608149;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0013;Ana;Rodonaves;Gabriel;07/04/2026;09/04/2026;2;10;Registro fictício para testes
+615611;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;Patrus;Fernanda;31/03/2026;12/04/2026;12;1;Registro fictício para testes
+898025;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Marcos;Tegma;Fernanda;19/05/2026;02/06/2026;14;8;Registro fictício para testes
+579536;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0036;Ricardo;JSL;Gabriel;01/05/2026;15/05/2026;14;1;Registro fictício para testes
+484682;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0049;Marcos;Patrus;Gabriel;14/03/2026;29/03/2026;15;3;Registro fictício para testes
+970392;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Marcos;Patrus;Bruno;09/05/2026;22/05/2026;13;5;Registro fictício para testes
+223088;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0014;Ricardo;Rodonaves;Bruno;27/03/2026;11/04/2026;15;9;Registro fictício para testes
+245998;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0014;Marcos;Rodonaves;Bruno;01/05/2026;12/05/2026;11;8;Registro fictício para testes
+276556;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ana;Tegma;Gabriel;07/03/2026;17/03/2026;10;4;Registro fictício para testes
+199850;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Ana;JSL;Bruno;25/02/2026;12/03/2026;15;10;Registro fictício para testes
+239136;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Ricardo;Tegma;Fernanda;22/02/2026;09/03/2026;15;10;Registro fictício para testes
+705474;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Ana;Patrus;Amanda;21/03/2026;25/03/2026;4;1;Registro fictício para testes
+886224;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ana;Patrus;Amanda;01/04/2026;11/04/2026;10;5;Registro fictício para testes
+911739;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0047;Ana;Tegma;Pedro;22/05/2026;06/06/2026;15;8;Registro fictício para testes
+964915;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0032;Ana;Tegma;Bruno;25/04/2026;03/05/2026;8;5;Registro fictício para testes
+693643;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0022;Ricardo;JSL;Pedro;10/03/2026;14/03/2026;4;1;Registro fictício para testes
+999312;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Ana;JSL;Amanda;20/05/2026;23/05/2026;3;3;Registro fictício para testes
+266699;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Ricardo;Tegma;Bruno;28/02/2026;06/03/2026;6;1;Registro fictício para testes
+273565;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0026;Ricardo;Tegma;Fernanda;26/02/2026;10/03/2026;12;6;Registro fictício para testes
+101139;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0031;Marcos;Braspress;Gabriel;21/02/2026;24/02/2026;3;3;Registro fictício para testes
+109738;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0045;Ana;JSL;Amanda;24/02/2026;05/03/2026;9;2;Registro fictício para testes
+501677;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Marcos;JSL;Bruno;13/05/2026;18/05/2026;5;5;Registro fictício para testes
+911032;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0042;Ricardo;Braspress;Pedro;05/05/2026;13/05/2026;8;8;Registro fictício para testes
+781595;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0029;Ana;Braspress;Fernanda;21/05/2026;01/06/2026;11;6;Registro fictício para testes
+327797;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0007;Marcos;JSL;Gabriel;24/02/2026;05/03/2026;9;6;Registro fictício para testes
+929504;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ana;JSL;Fernanda;29/03/2026;05/04/2026;7;8;Registro fictício para testes
+737107;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0050;Ricardo;JSL;Bruno;07/03/2026;20/03/2026;13;3;Registro fictício para testes
+297810;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ricardo;JSL;Fernanda;06/03/2026;16/03/2026;10;7;Registro fictício para testes
+623850;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Marcos;Tegma;Bruno;08/05/2026;13/05/2026;5;2;Registro fictício para testes
+483162;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Marcos;Patrus;Pedro;11/03/2026;19/03/2026;8;0;Registro fictício para testes
+374921;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0003;Marcos;Patrus;Gabriel;14/05/2026;16/05/2026;2;4;Registro fictício para testes
+835901;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Ricardo;Rodonaves;Gabriel;30/03/2026;07/04/2026;8;9;Registro fictício para testes
+424960;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0033;Marcos;Braspress;Gabriel;17/04/2026;20/04/2026;3;5;Registro fictício para testes
+900298;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ricardo;Patrus;Fernanda;08/03/2026;20/03/2026;12;0;Registro fictício para testes
+221620;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0040;Ricardo;JSL;Bruno;11/05/2026;19/05/2026;8;10;Registro fictício para testes
+842287;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Marcos;Braspress;Amanda;07/05/2026;09/05/2026;2;5;Registro fictício para testes
+962460;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Ana;Braspress;Bruno;17/03/2026;31/03/2026;14;1;Registro fictício para testes
+550179;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0034;Marcos;Tegma;Gabriel;10/04/2026;24/04/2026;14;10;Registro fictício para testes
+635593;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0004;Ana;Rodonaves;Fernanda;20/03/2026;29/03/2026;9;5;Registro fictício para testes
+207903;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0015;Ricardo;Rodonaves;Pedro;20/04/2026;04/05/2026;14;0;Registro fictício para testes
+594681;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0025;Marcos;Braspress;Pedro;21/04/2026;23/04/2026;2;8;Registro fictício para testes
+360322;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Ana;Tegma;Pedro;24/04/2026;01/05/2026;7;9;Registro fictício para testes
+806033;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Marcos;Rodonaves;Pedro;07/05/2026;17/05/2026;10;6;Registro fictício para testes
+396020;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0021;Marcos;Rodonaves;Amanda;24/03/2026;08/04/2026;15;0;Registro fictício para testes
+691194;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0048;Ricardo;Braspress;Amanda;27/04/2026;03/05/2026;6;5;Registro fictício para testes
+913575;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0047;Ricardo;Braspress;Fernanda;20/03/2026;03/04/2026;14;0;Registro fictício para testes
+667851;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Ricardo;JSL;Bruno;19/05/2026;24/05/2026;5;0;Registro fictício para testes
+315161;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Ana;Patrus;Pedro;13/04/2026;16/04/2026;3;2;Registro fictício para testes
+342716;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0027;Ricardo;Tegma;Amanda;11/05/2026;13/05/2026;2;1;Registro fictício para testes
+239999;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Ricardo;Rodonaves;Pedro;10/05/2026;20/05/2026;10;6;Registro fictício para testes
+373668;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Ricardo;Tegma;Bruno;22/04/2026;28/04/2026;6;7;Registro fictício para testes
+312559;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0050;Ricardo;JSL;Fernanda;23/04/2026;26/04/2026;3;1;Registro fictício para testes
+429287;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0008;Ricardo;Tegma;Fernanda;26/03/2026;04/04/2026;9;7;Registro fictício para testes
+993892;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Marcos;Tegma;Gabriel;24/03/2026;30/03/2026;6;0;Registro fictício para testes
+195643;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0023;Ana;Rodonaves;Pedro;11/04/2026;15/04/2026;4;10;Registro fictício para testes
+282313;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0026;Ana;Rodonaves;Gabriel;19/04/2026;04/05/2026;15;3;Registro fictício para testes
+942946;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0008;Marcos;JSL;Fernanda;24/03/2026;27/03/2026;3;2;Registro fictício para testes
+819622;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0038;Ricardo;Tegma;Pedro;01/04/2026;08/04/2026;7;0;Registro fictício para testes
+564971;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Ana;JSL;Pedro;27/04/2026;09/05/2026;12;7;Registro fictício para testes
+554197;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0032;Marcos;Patrus;Amanda;01/05/2026;12/05/2026;11;2;Registro fictício para testes
+388339;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0029;Marcos;JSL;Gabriel;25/04/2026;29/04/2026;4;9;Registro fictício para testes
+409440;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Ricardo;Patrus;Pedro;21/04/2026;03/05/2026;12;1;Registro fictício para testes
+539599;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0042;Ricardo;Braspress;Gabriel;03/04/2026;07/04/2026;4;0;Registro fictício para testes
+670968;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0023;Ricardo;Rodonaves;Bruno;07/04/2026;16/04/2026;9;6;Registro fictício para testes
+434367;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Ana;JSL;Amanda;29/04/2026;01/05/2026;2;8;Registro fictício para testes
+267378;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ricardo;Braspress;Bruno;09/03/2026;14/03/2026;5;8;Registro fictício para testes
+987624;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Marcos;Braspress;Fernanda;24/04/2026;05/05/2026;11;9;Registro fictício para testes
+720298;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ricardo;Tegma;Gabriel;22/02/2026;01/03/2026;7;9;Registro fictício para testes
+977340;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0035;Ana;Braspress;Amanda;11/03/2026;16/03/2026;5;0;Registro fictício para testes
+730889;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0002;Ricardo;Patrus;Pedro;15/05/2026;20/05/2026;5;5;Registro fictício para testes
+236828;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Marcos;Tegma;Pedro;27/04/2026;11/05/2026;14;0;Registro fictício para testes
+248533;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0034;Ana;JSL;Bruno;08/03/2026;21/03/2026;13;10;Registro fictício para testes
+452909;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Marcos;Braspress;Amanda;08/03/2026;11/03/2026;3;10;Registro fictício para testes
+282664;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0045;Ricardo;Tegma;Fernanda;28/02/2026;07/03/2026;7;10;Registro fictício para testes
+421727;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Marcos;JSL;Gabriel;30/04/2026;08/05/2026;8;6;Registro fictício para testes
+731650;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Marcos;Rodonaves;Pedro;18/05/2026;22/05/2026;4;7;Registro fictício para testes
+181586;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0023;Ana;Braspress;Pedro;10/04/2026;23/04/2026;13;10;Registro fictício para testes
+378095;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ricardo;JSL;Bruno;26/03/2026;28/03/2026;2;4;Registro fictício para testes
+504684;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0047;Ana;Braspress;Amanda;22/05/2026;24/05/2026;2;7;Registro fictício para testes
+493580;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0031;Ricardo;Braspress;Fernanda;08/04/2026;18/04/2026;10;7;Registro fictício para testes
+121053;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0017;Marcos;JSL;Bruno;18/05/2026;24/05/2026;6;2;Registro fictício para testes
+178645;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Ana;Rodonaves;Gabriel;02/05/2026;15/05/2026;13;7;Registro fictício para testes
+273012;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0011;Marcos;JSL;Bruno;28/03/2026;09/04/2026;12;3;Registro fictício para testes
+681028;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Ricardo;Tegma;Bruno;31/03/2026;13/04/2026;13;3;Registro fictício para testes
+699544;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0032;Marcos;JSL;Bruno;16/05/2026;24/05/2026;8;0;Registro fictício para testes
+963918;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Marcos;JSL;Fernanda;11/05/2026;17/05/2026;6;2;Registro fictício para testes
+984756;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0020;Ana;Patrus;Amanda;12/05/2026;21/05/2026;9;10;Registro fictício para testes
+670557;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Ana;Patrus;Bruno;11/05/2026;23/05/2026;12;2;Registro fictício para testes
+561101;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Marcos;Tegma;Gabriel;17/05/2026;23/05/2026;6;0;Registro fictício para testes
+201400;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0043;Ana;Rodonaves;Amanda;22/02/2026;06/03/2026;12;9;Registro fictício para testes
+981639;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0034;Ana;Rodonaves;Amanda;13/03/2026;15/03/2026;2;9;Registro fictício para testes
+182790;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Marcos;Rodonaves;Gabriel;23/03/2026;29/03/2026;6;8;Registro fictício para testes
+254610;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Ana;Braspress;Fernanda;25/02/2026;08/03/2026;11;3;Registro fictício para testes
+543940;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0044;Ana;Braspress;Fernanda;06/05/2026;08/05/2026;2;9;Registro fictício para testes
+946561;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Ana;Rodonaves;Amanda;12/04/2026;25/04/2026;13;8;Registro fictício para testes
+580412;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0045;Ricardo;Rodonaves;Gabriel;17/04/2026;27/04/2026;10;6;Registro fictício para testes
+255398;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Ricardo;JSL;Bruno;30/03/2026;03/04/2026;4;8;Registro fictício para testes
+501650;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Ricardo;Patrus;Pedro;31/03/2026;06/04/2026;6;2;Registro fictício para testes
+748276;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ana;Tegma;Fernanda;01/04/2026;05/04/2026;4;0;Registro fictício para testes
+121215;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ana;Tegma;Amanda;18/04/2026;25/04/2026;7;10;Registro fictício para testes
+415076;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0050;Ana;Tegma;Amanda;23/04/2026;27/04/2026;4;9;Registro fictício para testes
+321659;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0048;Ana;Rodonaves;Bruno;28/04/2026;07/05/2026;9;0;Registro fictício para testes
+426236;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0026;Marcos;Rodonaves;Gabriel;02/05/2026;05/05/2026;3;0;Registro fictício para testes
+310477;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0016;Marcos;Patrus;Pedro;28/04/2026;13/05/2026;15;5;Registro fictício para testes
+963508;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0033;Ana;JSL;Pedro;17/04/2026;24/04/2026;7;3;Registro fictício para testes
+567773;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Ricardo;Rodonaves;Bruno;21/03/2026;01/04/2026;11;5;Registro fictício para testes
+971230;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0019;Marcos;Patrus;Pedro;19/04/2026;02/05/2026;13;2;Registro fictício para testes
+332103;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0044;Marcos;Tegma;Amanda;25/04/2026;10/05/2026;15;8;Registro fictício para testes
+597126;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0042;Marcos;Rodonaves;Pedro;24/02/2026;26/02/2026;2;3;Registro fictício para testes
+420297;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0028;Ana;Tegma;Amanda;06/03/2026;20/03/2026;14;4;Registro fictício para testes
+810091;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0040;Ana;Rodonaves;Pedro;24/03/2026;30/03/2026;6;0;Registro fictício para testes
+980152;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0036;Ricardo;Rodonaves;Gabriel;27/02/2026;14/03/2026;15;4;Registro fictício para testes
+605139;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0022;Ana;Tegma;Bruno;24/02/2026;27/02/2026;3;4;Registro fictício para testes
+642421;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Ricardo;Patrus;Bruno;28/04/2026;02/05/2026;4;10;Registro fictício para testes
+621533;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Ana;Patrus;Amanda;19/05/2026;31/05/2026;12;0;Registro fictício para testes
+955653;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0022;Ricardo;Braspress;Gabriel;21/02/2026;04/03/2026;11;10;Registro fictício para testes
+631958;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Ricardo;Rodonaves;Fernanda;26/02/2026;05/03/2026;7;4;Registro fictício para testes
+876909;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0047;Ricardo;Braspress;Bruno;23/03/2026;27/03/2026;4;10;Registro fictício para testes
+334176;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0027;Ana;Tegma;Bruno;24/04/2026;01/05/2026;7;9;Registro fictício para testes
+223502;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Ricardo;Rodonaves;Gabriel;24/03/2026;08/04/2026;15;9;Registro fictício para testes
+624788;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ana;Rodonaves;Bruno;23/03/2026;28/03/2026;5;6;Registro fictício para testes
+310026;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0027;Ricardo;Patrus;Fernanda;03/05/2026;07/05/2026;4;5;Registro fictício para testes
+448787;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0021;Ricardo;JSL;Pedro;12/05/2026;21/05/2026;9;7;Registro fictício para testes
+911117;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Marcos;Patrus;Pedro;26/04/2026;10/05/2026;14;2;Registro fictício para testes
+550268;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0028;Ana;Patrus;Pedro;28/03/2026;09/04/2026;12;0;Registro fictício para testes
+491225;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0021;Ricardo;Braspress;Pedro;27/04/2026;10/05/2026;13;10;Registro fictício para testes
+360909;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ana;Tegma;Fernanda;03/03/2026;16/03/2026;13;1;Registro fictício para testes
+420984;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0005;Marcos;Tegma;Bruno;19/03/2026;30/03/2026;11;7;Registro fictício para testes
+454245;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0044;Marcos;Tegma;Amanda;07/03/2026;17/03/2026;10;5;Registro fictício para testes
+522986;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0015;Marcos;Braspress;Fernanda;01/05/2026;15/05/2026;14;0;Registro fictício para testes
+229144;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Ricardo;JSL;Amanda;19/03/2026;23/03/2026;4;10;Registro fictício para testes
+150947;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0043;Marcos;JSL;Pedro;15/03/2026;26/03/2026;11;1;Registro fictício para testes
+229598;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Ana;Braspress;Fernanda;27/03/2026;04/04/2026;8;10;Registro fictício para testes
+793805;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0043;Ricardo;Tegma;Gabriel;14/04/2026;22/04/2026;8;9;Registro fictício para testes
+210010;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0047;Ricardo;JSL;Bruno;30/03/2026;14/04/2026;15;1;Registro fictício para testes
+738584;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0050;Ana;Rodonaves;Fernanda;20/03/2026;25/03/2026;5;5;Registro fictício para testes
+141319;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0032;Marcos;Patrus;Bruno;15/04/2026;19/04/2026;4;3;Registro fictício para testes
+193326;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0037;Ricardo;Patrus;Fernanda;21/05/2026;02/06/2026;12;1;Registro fictício para testes
+858724;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Ricardo;Braspress;Amanda;13/05/2026;26/05/2026;13;4;Registro fictício para testes
+204657;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ana;Tegma;Bruno;24/03/2026;26/03/2026;2;6;Registro fictício para testes
+895034;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0001;Marcos;Braspress;Bruno;10/05/2026;25/05/2026;15;5;Registro fictício para testes
+868677;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0024;Ana;Braspress;Pedro;04/03/2026;10/03/2026;6;6;Registro fictício para testes
+976303;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0045;Ana;Patrus;Fernanda;25/03/2026;31/03/2026;6;1;Registro fictício para testes
+161495;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0007;Ana;Rodonaves;Amanda;22/02/2026;07/03/2026;13;9;Registro fictício para testes
+498197;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0040;Marcos;Braspress;Amanda;29/04/2026;10/05/2026;11;7;Registro fictício para testes
+148205;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0017;Ricardo;Tegma;Pedro;31/03/2026;09/04/2026;9;10;Registro fictício para testes
+692458;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0043;Ana;Rodonaves;Gabriel;10/03/2026;23/03/2026;13;9;Registro fictício para testes
+861949;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0031;Ana;Patrus;Fernanda;28/03/2026;09/04/2026;12;8;Registro fictício para testes
+774652;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0033;Ana;Patrus;Fernanda;16/05/2026;18/05/2026;2;1;Registro fictício para testes
+446968;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Ricardo;Braspress;Gabriel;11/04/2026;16/04/2026;5;10;Registro fictício para testes
+346415;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0030;Ana;Rodonaves;Amanda;01/04/2026;16/04/2026;15;1;Registro fictício para testes
+224473;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0048;Ricardo;JSL;Pedro;26/03/2026;02/04/2026;7;6;Registro fictício para testes
+675771;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Ricardo;Rodonaves;Bruno;18/05/2026;28/05/2026;10;8;Registro fictício para testes
+804091;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0022;Ana;JSL;Fernanda;26/04/2026;08/05/2026;12;7;Registro fictício para testes
+749863;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ricardo;Tegma;Amanda;12/03/2026;26/03/2026;14;1;Registro fictício para testes
+102303;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Ricardo;Tegma;Gabriel;27/02/2026;04/03/2026;5;8;Registro fictício para testes
+148001;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0032;Marcos;Patrus;Pedro;22/02/2026;25/02/2026;3;4;Registro fictício para testes
+226611;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ana;Braspress;Bruno;27/04/2026;02/05/2026;5;1;Registro fictício para testes
+978146;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0050;Ana;Patrus;Gabriel;17/05/2026;29/05/2026;12;8;Registro fictício para testes
+656127;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0036;Ana;Rodonaves;Amanda;20/03/2026;22/03/2026;2;8;Registro fictício para testes
+282085;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0007;Ana;Rodonaves;Gabriel;23/02/2026;06/03/2026;11;5;Registro fictício para testes
+738576;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0018;Ana;Tegma;Bruno;03/04/2026;11/04/2026;8;7;Registro fictício para testes
+731792;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0020;Ricardo;Rodonaves;Bruno;05/05/2026;13/05/2026;8;8;Registro fictício para testes
+754487;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0044;Ana;Braspress;Fernanda;27/04/2026;02/05/2026;5;8;Registro fictício para testes
+438041;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Ana;Rodonaves;Amanda;23/02/2026;07/03/2026;12;9;Registro fictício para testes
+537757;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;JSL;Gabriel;26/02/2026;11/03/2026;13;1;Registro fictício para testes
+155642;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0013;Ana;Braspress;Bruno;04/04/2026;08/04/2026;4;10;Registro fictício para testes
+165046;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0014;Ricardo;JSL;Bruno;04/05/2026;19/05/2026;15;7;Registro fictício para testes
+808340;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0015;Ricardo;Rodonaves;Amanda;05/03/2026;20/03/2026;15;3;Registro fictício para testes
+826596;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0025;Ana;Patrus;Bruno;22/02/2026;28/02/2026;6;8;Registro fictício para testes
+363550;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0040;Ana;Braspress;Bruno;21/05/2026;03/06/2026;13;9;Registro fictício para testes
+913848;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;Braspress;Pedro;06/03/2026;11/03/2026;5;2;Registro fictício para testes
+495521;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0028;Ana;Rodonaves;Bruno;18/03/2026;21/03/2026;3;2;Registro fictício para testes
+367403;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0022;Ana;Braspress;Pedro;09/03/2026;24/03/2026;15;2;Registro fictício para testes
+911242;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0032;Ricardo;Rodonaves;Bruno;07/03/2026;09/03/2026;2;1;Registro fictício para testes
+292800;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0005;Ricardo;Braspress;Amanda;16/03/2026;21/03/2026;5;8;Registro fictício para testes
+466375;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ricardo;Tegma;Bruno;01/04/2026;04/04/2026;3;5;Registro fictício para testes
+748314;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Ricardo;JSL;Pedro;25/04/2026;09/05/2026;14;10;Registro fictício para testes
+773462;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ricardo;Tegma;Amanda;26/03/2026;31/03/2026;5;1;Registro fictício para testes
+859143;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0002;Ricardo;Tegma;Gabriel;20/04/2026;30/04/2026;10;8;Registro fictício para testes
+410833;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ricardo;JSL;Pedro;21/03/2026;23/03/2026;2;2;Registro fictício para testes
+757386;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ricardo;Braspress;Amanda;15/03/2026;17/03/2026;2;1;Registro fictício para testes
+836879;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0042;Marcos;Braspress;Pedro;15/03/2026;30/03/2026;15;7;Registro fictício para testes
+176806;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Ana;Rodonaves;Pedro;18/05/2026;21/05/2026;3;9;Registro fictício para testes
+506881;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0041;Ana;Patrus;Bruno;19/04/2026;27/04/2026;8;0;Registro fictício para testes
+660814;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0042;Ricardo;Rodonaves;Pedro;25/02/2026;28/02/2026;3;9;Registro fictício para testes
+176115;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0033;Marcos;Tegma;Bruno;22/02/2026;09/03/2026;15;9;Registro fictício para testes
+558936;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0026;Ricardo;JSL;Amanda;16/04/2026;30/04/2026;14;2;Registro fictício para testes
+883028;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ana;Braspress;Bruno;24/04/2026;28/04/2026;4;10;Registro fictício para testes
+682032;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0008;Marcos;JSL;Gabriel;21/05/2026;31/05/2026;10;9;Registro fictício para testes
+189261;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0014;Ricardo;Tegma;Fernanda;15/03/2026;25/03/2026;10;6;Registro fictício para testes
+292930;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ana;Braspress;Pedro;04/05/2026;08/05/2026;4;2;Registro fictício para testes
+887524;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0030;Ricardo;Rodonaves;Pedro;16/05/2026;31/05/2026;15;4;Registro fictício para testes
+307007;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0022;Ana;Braspress;Fernanda;20/04/2026;23/04/2026;3;1;Registro fictício para testes
+302897;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0032;Ana;Tegma;Gabriel;04/03/2026;07/03/2026;3;10;Registro fictício para testes
+259797;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0021;Ana;Braspress;Pedro;23/02/2026;06/03/2026;11;5;Registro fictício para testes
+875753;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Ana;Braspress;Bruno;24/04/2026;07/05/2026;13;7;Registro fictício para testes
+912402;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0032;Ricardo;JSL;Fernanda;26/03/2026;02/04/2026;7;10;Registro fictício para testes
+394247;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Marcos;Tegma;Pedro;12/05/2026;27/05/2026;15;1;Registro fictício para testes
+132709;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0050;Ricardo;Braspress;Pedro;19/03/2026;31/03/2026;12;8;Registro fictício para testes
+595036;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0024;Ana;Braspress;Gabriel;14/03/2026;24/03/2026;10;4;Registro fictício para testes
+635205;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Ana;Rodonaves;Pedro;24/03/2026;03/04/2026;10;10;Registro fictício para testes
+273899;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Ana;Braspress;Fernanda;05/03/2026;17/03/2026;12;9;Registro fictício para testes
+253300;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Marcos;Braspress;Amanda;27/02/2026;14/03/2026;15;3;Registro fictício para testes
+345386;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0043;Marcos;Rodonaves;Bruno;19/04/2026;26/04/2026;7;6;Registro fictício para testes
+141843;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0007;Ricardo;Rodonaves;Bruno;25/03/2026;27/03/2026;2;4;Registro fictício para testes
+282294;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0042;Ana;Tegma;Gabriel;14/03/2026;25/03/2026;11;10;Registro fictício para testes
+494609;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0034;Ana;Tegma;Bruno;17/03/2026;23/03/2026;6;7;Registro fictício para testes
+626214;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Marcos;Braspress;Pedro;06/03/2026;08/03/2026;2;8;Registro fictício para testes
+295984;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0024;Ricardo;JSL;Fernanda;25/04/2026;29/04/2026;4;6;Registro fictício para testes
+808029;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Marcos;Rodonaves;Fernanda;08/05/2026;17/05/2026;9;10;Registro fictício para testes
+145240;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Ricardo;Braspress;Fernanda;20/05/2026;25/05/2026;5;10;Registro fictício para testes
+253999;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Ana;Braspress;Gabriel;17/05/2026;28/05/2026;11;6;Registro fictício para testes
+119524;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Marcos;Patrus;Gabriel;11/03/2026;23/03/2026;12;7;Registro fictício para testes
+970699;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0039;Marcos;Rodonaves;Fernanda;01/05/2026;06/05/2026;5;9;Registro fictício para testes
+859364;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0030;Ricardo;Rodonaves;Pedro;19/04/2026;23/04/2026;4;3;Registro fictício para testes
+213844;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ricardo;Rodonaves;Amanda;03/04/2026;07/04/2026;4;2;Registro fictício para testes
+598985;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ricardo;JSL;Pedro;10/05/2026;14/05/2026;4;7;Registro fictício para testes
+967719;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0050;Ricardo;Patrus;Gabriel;06/03/2026;16/03/2026;10;6;Registro fictício para testes
+655552;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0015;Ana;Patrus;Bruno;17/05/2026;30/05/2026;13;9;Registro fictício para testes
+240386;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0031;Marcos;JSL;Bruno;10/05/2026;18/05/2026;8;9;Registro fictício para testes
+298202;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Ricardo;JSL;Gabriel;31/03/2026;06/04/2026;6;8;Registro fictício para testes
+493247;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ana;Patrus;Bruno;17/03/2026;19/03/2026;2;1;Registro fictício para testes
+713805;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Ricardo;Patrus;Gabriel;29/03/2026;10/04/2026;12;5;Registro fictício para testes
+516760;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Ricardo;Rodonaves;Amanda;17/04/2026;29/04/2026;12;2;Registro fictício para testes
+607259;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0020;Ricardo;Tegma;Amanda;12/03/2026;22/03/2026;10;2;Registro fictício para testes
+921149;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Marcos;Rodonaves;Amanda;23/04/2026;02/05/2026;9;5;Registro fictício para testes
+817817;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Ana;JSL;Pedro;05/03/2026;18/03/2026;13;2;Registro fictício para testes
+192422;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Marcos;Tegma;Pedro;07/03/2026;15/03/2026;8;9;Registro fictício para testes
+743789;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0019;Ricardo;Rodonaves;Pedro;03/04/2026;11/04/2026;8;2;Registro fictício para testes
+311505;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0019;Marcos;JSL;Gabriel;27/03/2026;29/03/2026;2;8;Registro fictício para testes
+745073;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0044;Marcos;Tegma;Fernanda;22/02/2026;27/02/2026;5;10;Registro fictício para testes
+389340;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Ricardo;Patrus;Amanda;02/05/2026;05/05/2026;3;9;Registro fictício para testes
+872722;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Ricardo;Tegma;Gabriel;17/03/2026;19/03/2026;2;9;Registro fictício para testes
+389939;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0039;Marcos;Patrus;Amanda;08/04/2026;23/04/2026;15;9;Registro fictício para testes
+526911;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Ricardo;JSL;Gabriel;19/04/2026;23/04/2026;4;4;Registro fictício para testes
+638220;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0035;Ricardo;Tegma;Amanda;08/05/2026;22/05/2026;14;6;Registro fictício para testes
+355090;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0050;Ana;Patrus;Gabriel;22/03/2026;05/04/2026;14;0;Registro fictício para testes
+170835;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Marcos;Braspress;Bruno;08/05/2026;14/05/2026;6;6;Registro fictício para testes
+110195;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ana;JSL;Amanda;17/03/2026;27/03/2026;10;10;Registro fictício para testes
+287155;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0021;Ana;Braspress;Gabriel;13/05/2026;23/05/2026;10;4;Registro fictício para testes
+623238;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0016;Ricardo;Braspress;Bruno;24/02/2026;01/03/2026;5;3;Registro fictício para testes
+361824;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Marcos;JSL;Pedro;27/04/2026;12/05/2026;15;10;Registro fictício para testes
+901368;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0003;Ana;Tegma;Gabriel;05/03/2026;07/03/2026;2;5;Registro fictício para testes
+388078;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0012;Ricardo;Tegma;Amanda;10/03/2026;25/03/2026;15;3;Registro fictício para testes
+651273;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0031;Ricardo;JSL;Gabriel;06/05/2026;08/05/2026;2;5;Registro fictício para testes
+283291;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0008;Ricardo;Rodonaves;Amanda;24/02/2026;10/03/2026;14;5;Registro fictício para testes
+320989;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0038;Marcos;Tegma;Bruno;21/05/2026;02/06/2026;12;9;Registro fictício para testes
+375617;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0018;Ana;Rodonaves;Bruno;29/04/2026;09/05/2026;10;5;Registro fictício para testes
+320759;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Ana;Tegma;Amanda;20/03/2026;28/03/2026;8;4;Registro fictício para testes
+237509;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0007;Ricardo;Tegma;Fernanda;29/04/2026;10/05/2026;11;8;Registro fictício para testes
+252928;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0031;Marcos;Braspress;Amanda;04/04/2026;09/04/2026;5;7;Registro fictício para testes
+659921;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0032;Ana;Tegma;Gabriel;03/03/2026;13/03/2026;10;9;Registro fictício para testes
+824087;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0004;Marcos;Tegma;Amanda;02/04/2026;05/04/2026;3;10;Registro fictício para testes
+450912;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0024;Ana;Rodonaves;Gabriel;26/03/2026;08/04/2026;13;4;Registro fictício para testes
+227126;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0044;Ricardo;Braspress;Gabriel;20/05/2026;28/05/2026;8;9;Registro fictício para testes
+398433;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0021;Ricardo;Rodonaves;Amanda;30/04/2026;14/05/2026;14;7;Registro fictício para testes
+400441;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0041;Marcos;Braspress;Bruno;04/04/2026;15/04/2026;11;6;Registro fictício para testes
+990136;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0006;Marcos;Tegma;Fernanda;10/03/2026;18/03/2026;8;5;Registro fictício para testes
+844943;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0039;Ricardo;Patrus;Bruno;28/02/2026;06/03/2026;6;7;Registro fictício para testes
+572161;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0011;Marcos;JSL;Fernanda;08/03/2026;18/03/2026;10;3;Registro fictício para testes
+183953;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0011;Ana;JSL;Pedro;22/02/2026;07/03/2026;13;1;Registro fictício para testes
+127645;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Marcos;JSL;Bruno;13/03/2026;15/03/2026;2;9;Registro fictício para testes
+508783;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0015;Marcos;Tegma;Amanda;12/05/2026;24/05/2026;12;10;Registro fictício para testes
+979249;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0002;Marcos;Tegma;Bruno;06/05/2026;16/05/2026;10;7;Registro fictício para testes
+675191;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0009;Ricardo;Rodonaves;Fernanda;14/03/2026;20/03/2026;6;9;Registro fictício para testes
+885290;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0034;Ricardo;Rodonaves;Bruno;25/03/2026;06/04/2026;12;5;Registro fictício para testes
+943797;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Ana;Tegma;Amanda;14/03/2026;19/03/2026;5;4;Registro fictício para testes
+100096;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0049;Marcos;Tegma;Bruno;14/04/2026;16/04/2026;2;7;Registro fictício para testes
+615827;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0020;Marcos;Patrus;Bruno;21/05/2026;03/06/2026;13;9;Registro fictício para testes
+491794;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0027;Ricardo;Patrus;Amanda;22/05/2026;01/06/2026;10;3;Registro fictício para testes
+968668;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0015;Ana;JSL;Amanda;01/03/2026;09/03/2026;8;10;Registro fictício para testes
+938817;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0019;Ricardo;Rodonaves;Bruno;17/03/2026;31/03/2026;14;6;Registro fictício para testes
+243260;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0008;Ricardo;Patrus;Gabriel;14/05/2026;18/05/2026;4;7;Registro fictício para testes
+615895;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0021;Marcos;Braspress;Pedro;22/02/2026;05/03/2026;11;8;Registro fictício para testes
+395818;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0009;Ricardo;Patrus;Pedro;29/04/2026;02/05/2026;3;3;Registro fictício para testes
+617555;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0022;Ana;Tegma;Amanda;03/05/2026;05/05/2026;2;5;Registro fictício para testes
+133278;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Marcos;JSL;Bruno;22/02/2026;08/03/2026;14;6;Registro fictício para testes
+290425;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0017;Ana;JSL;Pedro;14/03/2026;23/03/2026;9;3;Registro fictício para testes
+873449;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ana;JSL;Gabriel;27/03/2026;01/04/2026;5;10;Registro fictício para testes
+814544;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0021;Marcos;JSL;Gabriel;23/03/2026;31/03/2026;8;8;Registro fictício para testes
+769536;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0013;Ana;JSL;Fernanda;20/04/2026;29/04/2026;9;1;Registro fictício para testes
+440277;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0011;Ana;Rodonaves;Pedro;02/03/2026;10/03/2026;8;6;Registro fictício para testes
+709303;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Ricardo;Braspress;Bruno;21/05/2026;23/05/2026;2;1;Registro fictício para testes
+195841;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0049;Ricardo;JSL;Pedro;02/05/2026;11/05/2026;9;5;Registro fictício para testes
+929912;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Ana;Braspress;Bruno;22/02/2026;04/03/2026;10;8;Registro fictício para testes
+302338;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0045;Ana;Tegma;Fernanda;27/03/2026;09/04/2026;13;4;Registro fictício para testes
+558752;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0019;Ricardo;Patrus;Fernanda;21/03/2026;03/04/2026;13;9;Registro fictício para testes
+439403;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Ricardo;Rodonaves;Fernanda;14/03/2026;21/03/2026;7;1;Registro fictício para testes
+410035;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ana;Patrus;Pedro;03/05/2026;12/05/2026;9;10;Registro fictício para testes
+294546;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0040;Ana;Rodonaves;Fernanda;04/04/2026;17/04/2026;13;5;Registro fictício para testes
+958835;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0013;Ricardo;Patrus;Gabriel;27/02/2026;09/03/2026;10;2;Registro fictício para testes
+529711;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0008;Marcos;Rodonaves;Pedro;16/04/2026;23/04/2026;7;0;Registro fictício para testes
+132792;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0007;Ana;Braspress;Pedro;30/04/2026;15/05/2026;15;0;Registro fictício para testes
+507475;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0034;Ricardo;Rodonaves;Bruno;01/03/2026;16/03/2026;15;0;Registro fictício para testes
+852715;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0001;Marcos;Patrus;Pedro;24/04/2026;05/05/2026;11;7;Registro fictício para testes
+879592;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0024;Ricardo;JSL;Gabriel;06/04/2026;16/04/2026;10;4;Registro fictício para testes
+173807;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Marcos;Rodonaves;Pedro;17/05/2026;30/05/2026;13;1;Registro fictício para testes
+298663;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0034;Ricardo;Braspress;Gabriel;15/03/2026;23/03/2026;8;10;Registro fictício para testes
+685253;Reagendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0048;Marcos;Rodonaves;Bruno;12/03/2026;25/03/2026;13;10;Registro fictício para testes
+547820;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Marcos;Rodonaves;Amanda;22/02/2026;06/03/2026;12;8;Registro fictício para testes
+659835;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0023;Ana;Rodonaves;Bruno;27/02/2026;03/03/2026;4;5;Registro fictício para testes
+966286;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0039;Marcos;Rodonaves;Gabriel;02/03/2026;10/03/2026;8;3;Registro fictício para testes
+366431;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Ana;Patrus;Pedro;13/03/2026;26/03/2026;13;0;Registro fictício para testes
+642752;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0020;Marcos;Tegma;Fernanda;07/03/2026;09/03/2026;2;3;Registro fictício para testes
+961866;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0036;Ricardo;Rodonaves;Gabriel;20/05/2026;03/06/2026;14;9;Registro fictício para testes
+582732;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Marcos;Tegma;Bruno;10/05/2026;12/05/2026;2;9;Registro fictício para testes
+950472;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Ricardo;Patrus;Gabriel;23/04/2026;29/04/2026;6;3;Registro fictício para testes
+605972;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0032;Ricardo;Rodonaves;Pedro;11/04/2026;25/04/2026;14;9;Registro fictício para testes
+947607;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Marcos;Tegma;Bruno;18/05/2026;31/05/2026;13;6;Registro fictício para testes
+907812;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0048;Ricardo;Rodonaves;Pedro;07/05/2026;22/05/2026;15;10;Registro fictício para testes
+649855;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ricardo;Rodonaves;Fernanda;16/05/2026;22/05/2026;6;5;Registro fictício para testes
+260639;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0044;Ricardo;Patrus;Amanda;22/02/2026;27/02/2026;5;9;Registro fictício para testes
+332873;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;Braspress;Fernanda;19/03/2026;22/03/2026;3;5;Registro fictício para testes
+881519;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0036;Ana;Tegma;Pedro;23/03/2026;03/04/2026;11;6;Registro fictício para testes
+831770;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Marcos;Patrus;Gabriel;28/03/2026;11/04/2026;14;3;Registro fictício para testes
+699083;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0036;Ricardo;Rodonaves;Fernanda;02/04/2026;14/04/2026;12;3;Registro fictício para testes
+550956;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ricardo;JSL;Pedro;18/04/2026;02/05/2026;14;10;Registro fictício para testes
+465227;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ana;Rodonaves;Pedro;29/03/2026;05/04/2026;7;4;Registro fictício para testes
+961493;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0040;Marcos;Patrus;Pedro;08/04/2026;19/04/2026;11;3;Registro fictício para testes
+263568;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0008;Ricardo;JSL;Fernanda;24/02/2026;03/03/2026;7;9;Registro fictício para testes
+459946;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0020;Ana;Patrus;Pedro;16/04/2026;18/04/2026;2;5;Registro fictício para testes
+313701;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0034;Ana;Rodonaves;Amanda;15/03/2026;20/03/2026;5;9;Registro fictício para testes
+800722;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0025;Ricardo;Rodonaves;Pedro;23/02/2026;08/03/2026;13;4;Registro fictício para testes
+310445;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0004;Ana;JSL;Pedro;15/05/2026;21/05/2026;6;6;Registro fictício para testes
+792165;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0007;Marcos;Tegma;Amanda;27/02/2026;14/03/2026;15;3;Registro fictício para testes
+204442;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0032;Ricardo;Rodonaves;Pedro;18/03/2026;31/03/2026;13;2;Registro fictício para testes
+687923;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0003;Marcos;Rodonaves;Bruno;19/03/2026;28/03/2026;9;5;Registro fictício para testes
+264631;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0023;Ricardo;Tegma;Bruno;02/04/2026;15/04/2026;13;10;Registro fictício para testes
+389279;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0041;Ana;Patrus;Pedro;22/04/2026;02/05/2026;10;8;Registro fictício para testes
+458388;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0043;Marcos;JSL;Amanda;24/04/2026;28/04/2026;4;8;Registro fictício para testes
+338475;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0016;Ricardo;Braspress;Amanda;03/03/2026;15/03/2026;12;4;Registro fictício para testes
+668573;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0014;Ricardo;Braspress;Gabriel;10/04/2026;19/04/2026;9;8;Registro fictício para testes
+821978;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Ana;Braspress;Gabriel;05/05/2026;11/05/2026;6;2;Registro fictício para testes
+658850;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0012;Ana;Braspress;Pedro;14/05/2026;24/05/2026;10;5;Registro fictício para testes
+564523;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0010;Marcos;JSL;Fernanda;31/03/2026;06/04/2026;6;2;Registro fictício para testes
+379825;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Marcos;Braspress;Pedro;05/03/2026;16/03/2026;11;5;Registro fictício para testes
+599753;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0033;Ricardo;Patrus;Bruno;23/02/2026;09/03/2026;14;2;Registro fictício para testes
+244192;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Marcos;JSL;Amanda;21/03/2026;30/03/2026;9;0;Registro fictício para testes
+878427;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0049;Marcos;JSL;Fernanda;31/03/2026;05/04/2026;5;7;Registro fictício para testes
+440677;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0016;Ana;Patrus;Pedro;21/03/2026;03/04/2026;13;9;Registro fictício para testes
+741209;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Ricardo;JSL;Gabriel;12/04/2026;20/04/2026;8;1;Registro fictício para testes
+144476;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Ricardo;Patrus;Pedro;25/03/2026;09/04/2026;15;8;Registro fictício para testes
+761282;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ana;Patrus;Amanda;17/03/2026;31/03/2026;14;4;Registro fictício para testes
+542983;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0040;Marcos;Rodonaves;Fernanda;24/03/2026;28/03/2026;4;7;Registro fictício para testes
+624977;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0012;Ricardo;Rodonaves;Fernanda;11/05/2026;24/05/2026;13;6;Registro fictício para testes
+126122;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0030;Ricardo;Braspress;Amanda;11/04/2026;20/04/2026;9;1;Registro fictício para testes
+780081;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ricardo;JSL;Pedro;11/04/2026;24/04/2026;13;1;Registro fictício para testes
+189450;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;Rodonaves;Gabriel;02/03/2026;09/03/2026;7;2;Registro fictício para testes
+146038;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0022;Ricardo;Braspress;Fernanda;13/03/2026;21/03/2026;8;2;Registro fictício para testes
+423026;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0047;Ana;Tegma;Fernanda;16/05/2026;24/05/2026;8;1;Registro fictício para testes
+752801;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0001;Ana;Patrus;Amanda;27/04/2026;29/04/2026;2;8;Registro fictício para testes
+349433;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0038;Ricardo;Patrus;Amanda;06/03/2026;15/03/2026;9;6;Registro fictício para testes
+729252;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Ricardo;Tegma;Gabriel;12/05/2026;23/05/2026;11;10;Registro fictício para testes
+293818;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0004;Ricardo;Tegma;Pedro;26/04/2026;28/04/2026;2;2;Registro fictício para testes
+978721;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0022;Marcos;JSL;Pedro;26/02/2026;09/03/2026;11;6;Registro fictício para testes
+398194;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0012;Ana;Rodonaves;Bruno;02/05/2026;14/05/2026;12;0;Registro fictício para testes
+486473;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Ana;Rodonaves;Pedro;14/04/2026;21/04/2026;7;4;Registro fictício para testes
+828361;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0022;Ricardo;Patrus;Gabriel;05/05/2026;08/05/2026;3;3;Registro fictício para testes
+214611;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Ana;Rodonaves;Bruno;05/03/2026;07/03/2026;2;6;Registro fictício para testes
+650912;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Ricardo;Rodonaves;Amanda;12/04/2026;18/04/2026;6;8;Registro fictício para testes
+288646;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;Braspress;Pedro;20/03/2026;03/04/2026;14;1;Registro fictício para testes
+935434;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0048;Marcos;Rodonaves;Amanda;24/03/2026;05/04/2026;12;6;Registro fictício para testes
+687638;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0001;Ricardo;Braspress;Bruno;10/04/2026;17/04/2026;7;4;Registro fictício para testes
+631302;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0021;Marcos;JSL;Bruno;13/04/2026;19/04/2026;6;5;Registro fictício para testes
+130531;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ana;Tegma;Amanda;11/03/2026;22/03/2026;11;7;Registro fictício para testes
+604884;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0041;Ana;Rodonaves;Bruno;01/03/2026;05/03/2026;4;7;Registro fictício para testes
+646384;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Ricardo;Tegma;Gabriel;15/05/2026;30/05/2026;15;8;Registro fictício para testes
+818791;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0023;Marcos;Braspress;Bruno;26/04/2026;07/05/2026;11;0;Registro fictício para testes
+660226;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Ricardo;Patrus;Fernanda;04/04/2026;16/04/2026;12;9;Registro fictício para testes
+999488;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0046;Marcos;Tegma;Amanda;13/04/2026;26/04/2026;13;1;Registro fictício para testes
+573858;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0014;Ricardo;Tegma;Fernanda;22/04/2026;29/04/2026;7;1;Registro fictício para testes
+311915;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0029;Ricardo;JSL;Amanda;18/05/2026;01/06/2026;14;8;Registro fictício para testes
+606957;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0020;Ana;Braspress;Pedro;28/04/2026;05/05/2026;7;8;Registro fictício para testes
+138328;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0025;Ricardo;Rodonaves;Pedro;26/04/2026;09/05/2026;13;0;Registro fictício para testes
+989322;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0022;Ana;JSL;Pedro;17/05/2026;29/05/2026;12;8;Registro fictício para testes
+895338;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0041;Marcos;Tegma;Fernanda;20/05/2026;31/05/2026;11;3;Registro fictício para testes
+434652;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0043;Marcos;Tegma;Fernanda;17/04/2026;27/04/2026;10;2;Registro fictício para testes
+753205;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0033;Marcos;Braspress;Gabriel;08/05/2026;10/05/2026;2;5;Registro fictício para testes
+248433;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0037;Marcos;Braspress;Pedro;12/04/2026;18/04/2026;6;4;Registro fictício para testes
+565198;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Marcos;Patrus;Pedro;09/04/2026;19/04/2026;10;1;Registro fictício para testes
+547181;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0012;Ricardo;Rodonaves;Gabriel;16/05/2026;19/05/2026;3;10;Registro fictício para testes
+427617;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ricardo;Rodonaves;Pedro;05/03/2026;12/03/2026;7;7;Registro fictício para testes
+952336;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0007;Ana;Tegma;Amanda;06/05/2026;09/05/2026;3;7;Registro fictício para testes
+746910;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0024;Ana;Braspress;Bruno;24/04/2026;28/04/2026;4;5;Registro fictício para testes
+168540;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0008;Ana;Patrus;Amanda;21/03/2026;23/03/2026;2;2;Registro fictício para testes
+702593;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0033;Marcos;Patrus;Pedro;08/04/2026;19/04/2026;11;5;Registro fictício para testes
+930924;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ana;Patrus;Gabriel;28/02/2026;03/03/2026;3;6;Registro fictício para testes
+674566;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0031;Ana;JSL;Bruno;04/03/2026;09/03/2026;5;3;Registro fictício para testes
+556501;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Ricardo;Braspress;Fernanda;28/03/2026;11/04/2026;14;10;Registro fictício para testes
+610268;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0038;Ricardo;Patrus;Bruno;10/03/2026;25/03/2026;15;8;Registro fictício para testes
+422998;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Ricardo;JSL;Gabriel;27/03/2026;31/03/2026;4;6;Registro fictício para testes
+792232;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Marcos;Braspress;Gabriel;20/03/2026;01/04/2026;12;10;Registro fictício para testes
+256464;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0035;Ana;Patrus;Gabriel;04/05/2026;16/05/2026;12;9;Registro fictício para testes
+814622;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0020;Ricardo;Tegma;Amanda;27/04/2026;02/05/2026;5;5;Registro fictício para testes
+741194;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0026;Marcos;Tegma;Pedro;09/03/2026;11/03/2026;2;5;Registro fictício para testes
+837520;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Marcos;Tegma;Pedro;16/05/2026;18/05/2026;2;3;Registro fictício para testes
+513420;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0046;Ana;Patrus;Amanda;22/02/2026;05/03/2026;11;6;Registro fictício para testes
+281833;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0009;Marcos;Rodonaves;Amanda;25/04/2026;07/05/2026;12;5;Registro fictício para testes
+802615;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0009;Marcos;JSL;Pedro;03/05/2026;09/05/2026;6;2;Registro fictício para testes
+242371;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0009;Ricardo;Patrus;Amanda;27/02/2026;07/03/2026;8;9;Registro fictício para testes
+576467;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0028;Ricardo;Patrus;Amanda;04/03/2026;08/03/2026;4;5;Registro fictício para testes
+733941;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0037;Ana;Braspress;Gabriel;29/04/2026;07/05/2026;8;4;Registro fictício para testes
+484795;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0003;Ricardo;Patrus;Bruno;14/03/2026;25/03/2026;11;1;Registro fictício para testes
+183952;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0047;Ricardo;Rodonaves;Bruno;22/03/2026;04/04/2026;13;7;Registro fictício para testes
+739705;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0016;Ana;JSL;Gabriel;12/05/2026;22/05/2026;10;9;Registro fictício para testes
+460234;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0050;Marcos;Patrus;Amanda;05/03/2026;07/03/2026;2;8;Registro fictício para testes
+447617;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0023;Ana;Tegma;Fernanda;10/03/2026;23/03/2026;13;0;Registro fictício para testes
+923154;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0004;Ricardo;Patrus;Gabriel;14/04/2026;27/04/2026;13;2;Registro fictício para testes
+405925;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;JSL;Fernanda;16/05/2026;28/05/2026;12;8;Registro fictício para testes
+238976;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0018;Ana;JSL;Pedro;17/04/2026;23/04/2026;6;9;Registro fictício para testes
+258477;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0024;Marcos;Tegma;Fernanda;08/03/2026;21/03/2026;13;7;Registro fictício para testes
+134697;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0006;Marcos;Rodonaves;Fernanda;16/03/2026;31/03/2026;15;7;Registro fictício para testes
+792759;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Ricardo;Braspress;Fernanda;03/04/2026;08/04/2026;5;9;Registro fictício para testes
+377238;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Marcos;Patrus;Amanda;16/05/2026;28/05/2026;12;7;Registro fictício para testes
+888977;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0015;Ana;Patrus;Amanda;23/03/2026;05/04/2026;13;4;Registro fictício para testes
+555851;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0019;Ana;Patrus;Bruno;16/03/2026;31/03/2026;15;8;Registro fictício para testes
+768387;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0028;Ricardo;Tegma;Bruno;10/05/2026;20/05/2026;10;4;Registro fictício para testes
+786128;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0030;Ricardo;Braspress;Gabriel;10/05/2026;16/05/2026;6;3;Registro fictício para testes
+823809;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0021;Ricardo;JSL;Pedro;09/04/2026;21/04/2026;12;1;Registro fictício para testes
+650779;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ana;Tegma;Fernanda;31/03/2026;03/04/2026;3;4;Registro fictício para testes
+124851;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Ricardo;Braspress;Gabriel;28/04/2026;30/04/2026;2;10;Registro fictício para testes
+190582;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0025;Ricardo;Rodonaves;Fernanda;21/02/2026;24/02/2026;3;1;Registro fictício para testes
+589638;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0041;Ana;Tegma;Amanda;20/04/2026;26/04/2026;6;10;Registro fictício para testes
+918656;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0018;Marcos;Patrus;Amanda;20/04/2026;24/04/2026;4;5;Registro fictício para testes
+377521;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0029;Marcos;Patrus;Fernanda;19/04/2026;04/05/2026;15;9;Registro fictício para testes
+615959;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0010;Ricardo;Patrus;Fernanda;30/04/2026;12/05/2026;12;9;Registro fictício para testes
+371577;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0003;Marcos;JSL;Gabriel;27/03/2026;09/04/2026;13;4;Registro fictício para testes
+256085;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0003;Ricardo;Patrus;Bruno;20/05/2026;29/05/2026;9;2;Registro fictício para testes
+103883;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0046;Ana;Patrus;Amanda;02/04/2026;13/04/2026;11;6;Registro fictício para testes
+103468;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ana;JSL;Gabriel;14/03/2026;19/03/2026;5;8;Registro fictício para testes
+417538;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0004;Ricardo;JSL;Bruno;10/04/2026;22/04/2026;12;8;Registro fictício para testes
+581966;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0042;Marcos;Braspress;Gabriel;12/05/2026;27/05/2026;15;0;Registro fictício para testes
+413388;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0007;Ricardo;Tegma;Amanda;27/02/2026;04/03/2026;5;1;Registro fictício para testes
+137432;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0002;Ricardo;Rodonaves;Fernanda;28/04/2026;02/05/2026;4;7;Registro fictício para testes
+666809;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0032;Ricardo;Patrus;Pedro;14/05/2026;28/05/2026;14;0;Registro fictício para testes
+926045;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0026;Marcos;Braspress;Gabriel;15/05/2026;22/05/2026;7;7;Registro fictício para testes
+707488;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Marcos;Braspress;Amanda;03/05/2026;16/05/2026;13;10;Registro fictício para testes
+148026;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Ricardo;Braspress;Pedro;23/03/2026;03/04/2026;11;2;Registro fictício para testes
+932251;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0030;Ricardo;Braspress;Gabriel;13/04/2026;28/04/2026;15;1;Registro fictício para testes
+723879;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Marcos;Patrus;Bruno;08/05/2026;17/05/2026;9;10;Registro fictício para testes
+817318;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0009;Ana;Braspress;Pedro;11/04/2026;14/04/2026;3;9;Registro fictício para testes
+226610;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Ana;Braspress;Bruno;10/04/2026;13/04/2026;3;8;Registro fictício para testes
+710256;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Marcos;Rodonaves;Amanda;27/03/2026;01/04/2026;5;2;Registro fictício para testes
+106658;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0012;Marcos;Rodonaves;Bruno;21/03/2026;24/03/2026;3;6;Registro fictício para testes
+316174;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0041;Ana;Rodonaves;Amanda;23/02/2026;27/02/2026;4;6;Registro fictício para testes
+825272;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0039;Marcos;Patrus;Gabriel;30/04/2026;11/05/2026;11;1;Registro fictício para testes
+104792;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Marcos;JSL;Gabriel;08/04/2026;16/04/2026;8;1;Registro fictício para testes
+898100;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0033;Marcos;Patrus;Fernanda;06/04/2026;21/04/2026;15;4;Registro fictício para testes
+935309;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ana;Patrus;Fernanda;28/04/2026;01/05/2026;3;2;Registro fictício para testes
+481884;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0014;Ana;Tegma;Bruno;16/05/2026;28/05/2026;12;9;Registro fictício para testes
+876383;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0035;Marcos;Braspress;Pedro;17/05/2026;20/05/2026;3;7;Registro fictício para testes
+346729;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0038;Ricardo;Tegma;Amanda;08/05/2026;11/05/2026;3;3;Registro fictício para testes
+215482;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0015;Marcos;Braspress;Amanda;23/04/2026;07/05/2026;14;3;Registro fictício para testes
+593869;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Ana;Braspress;Fernanda;24/04/2026;27/04/2026;3;9;Registro fictício para testes
+491627;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0030;Ricardo;Braspress;Bruno;30/04/2026;08/05/2026;8;4;Registro fictício para testes
+133653;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Marcos;JSL;Amanda;10/04/2026;14/04/2026;4;7;Registro fictício para testes
+460265;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0019;Ricardo;Braspress;Gabriel;01/05/2026;15/05/2026;14;2;Registro fictício para testes
+340860;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Ricardo;Patrus;Fernanda;13/03/2026;28/03/2026;15;9;Registro fictício para testes
+115208;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0048;Marcos;Braspress;Bruno;24/03/2026;30/03/2026;6;6;Registro fictício para testes
+256206;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0027;Marcos;JSL;Amanda;24/04/2026;05/05/2026;11;8;Registro fictício para testes
+513474;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0045;Marcos;Patrus;Amanda;29/03/2026;08/04/2026;10;3;Registro fictício para testes
+113026;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0014;Marcos;Tegma;Bruno;12/03/2026;26/03/2026;14;3;Registro fictício para testes
+801534;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0011;Ricardo;Patrus;Gabriel;20/05/2026;29/05/2026;9;9;Registro fictício para testes
+909327;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0046;Ana;Braspress;Bruno;25/03/2026;03/04/2026;9;10;Registro fictício para testes
+101429;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0025;Ricardo;Tegma;Gabriel;21/02/2026;05/03/2026;12;0;Registro fictício para testes
+382894;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Marcos;JSL;Gabriel;29/03/2026;12/04/2026;14;5;Registro fictício para testes
+481671;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0008;Ana;Tegma;Amanda;18/03/2026;30/03/2026;12;9;Registro fictício para testes
+283781;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0046;Marcos;Rodonaves;Fernanda;06/04/2026;13/04/2026;7;2;Registro fictício para testes
+219073;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0048;Ricardo;Braspress;Fernanda;22/04/2026;02/05/2026;10;5;Registro fictício para testes
+813269;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0018;Marcos;JSL;Bruno;18/04/2026;28/04/2026;10;5;Registro fictício para testes
+652266;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0031;Ricardo;Rodonaves;Gabriel;21/03/2026;31/03/2026;10;4;Registro fictício para testes
+938759;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ana;JSL;Pedro;04/03/2026;11/03/2026;7;6;Registro fictício para testes
+214677;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0018;Marcos;Braspress;Amanda;16/04/2026;19/04/2026;3;2;Registro fictício para testes
+123792;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0027;Ricardo;Rodonaves;Fernanda;17/03/2026;29/03/2026;12;7;Registro fictício para testes
+873544;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0019;Marcos;JSL;Pedro;30/03/2026;08/04/2026;9;3;Registro fictício para testes
+531690;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0042;Ricardo;Tegma;Amanda;01/03/2026;08/03/2026;7;9;Registro fictício para testes
+580255;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0037;Marcos;Tegma;Fernanda;13/03/2026;22/03/2026;9;4;Registro fictício para testes
+402143;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0010;Ana;Tegma;Amanda;22/03/2026;29/03/2026;7;2;Registro fictício para testes
+661320;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0012;Marcos;Braspress;Fernanda;02/05/2026;15/05/2026;13;3;Registro fictício para testes
+702433;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0029;Ana;Tegma;Fernanda;17/05/2026;24/05/2026;7;3;Registro fictício para testes
+797883;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Marcos;Tegma;Amanda;21/02/2026;23/02/2026;2;8;Registro fictício para testes
+227391;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Ana;Braspress;Amanda;15/03/2026;21/03/2026;6;5;Registro fictício para testes
+672675;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0022;Ricardo;Tegma;Amanda;22/05/2026;04/06/2026;13;4;Registro fictício para testes
+938416;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0022;Ricardo;JSL;Amanda;26/02/2026;02/03/2026;4;0;Registro fictício para testes
+222553;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0002;Ana;Rodonaves;Fernanda;25/02/2026;07/03/2026;10;7;Registro fictício para testes
+157706;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0038;Ricardo;Braspress;Bruno;11/05/2026;18/05/2026;7;3;Registro fictício para testes
+990714;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ricardo;JSL;Gabriel;12/05/2026;22/05/2026;10;6;Registro fictício para testes
+732471;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0004;Ricardo;Tegma;Amanda;21/03/2026;28/03/2026;7;2;Registro fictício para testes
+490941;Faturada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0019;Ana;Tegma;Bruno;05/04/2026;13/04/2026;8;7;Registro fictício para testes
+863209;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0048;Ana;Patrus;Bruno;11/05/2026;16/05/2026;5;2;Registro fictício para testes
+976097;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0010;Marcos;Tegma;Amanda;30/03/2026;03/04/2026;4;8;Registro fictício para testes
+892843;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Marcos;Patrus;Bruno;14/05/2026;25/05/2026;11;6;Registro fictício para testes
+844747;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0013;Marcos;Patrus;Bruno;12/03/2026;21/03/2026;9;8;Registro fictício para testes
+966384;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0038;Ana;Patrus;Gabriel;17/05/2026;01/06/2026;15;7;Registro fictício para testes
+102565;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Ana;Patrus;Pedro;19/05/2026;02/06/2026;14;10;Registro fictício para testes
+615780;Confirmada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Marcos;Tegma;Amanda;30/03/2026;03/04/2026;4;1;Registro fictício para testes
+603825;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Ricardo;Patrus;Pedro;06/04/2026;17/04/2026;11;5;Registro fictício para testes
+986340;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Ricardo;JSL;Fernanda;10/03/2026;12/03/2026;2;5;Registro fictício para testes
+474745;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Ana;Tegma;Amanda;23/02/2026;27/02/2026;4;10;Registro fictício para testes
+405831;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0041;Marcos;Rodonaves;Fernanda;16/05/2026;22/05/2026;6;10;Registro fictício para testes
+889188;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0035;Ana;Tegma;Bruno;10/05/2026;21/05/2026;11;4;Registro fictício para testes
+708222;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0010;Marcos;Braspress;Gabriel;10/05/2026;20/05/2026;10;4;Registro fictício para testes
+456844;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0007;Marcos;Braspress;Gabriel;21/03/2026;29/03/2026;8;3;Registro fictício para testes
+823153;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0035;Ricardo;Rodonaves;Pedro;12/03/2026;23/03/2026;11;6;Registro fictício para testes
+958620;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0002;Ana;Tegma;Bruno;13/05/2026;16/05/2026;3;5;Registro fictício para testes
+648532;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0012;Ricardo;Tegma;Pedro;27/03/2026;07/04/2026;11;1;Registro fictício para testes
+827967;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0045;Marcos;Tegma;Fernanda;06/05/2026;21/05/2026;15;3;Registro fictício para testes
+824375;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0005;Marcos;Patrus;Amanda;12/05/2026;20/05/2026;8;0;Registro fictício para testes
+931578;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0038;Marcos;Patrus;Pedro;09/05/2026;11/05/2026;2;4;Registro fictício para testes
+800015;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0049;Marcos;JSL;Gabriel;14/05/2026;20/05/2026;6;3;Registro fictício para testes
+803175;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0002;Marcos;Braspress;Bruno;27/04/2026;01/05/2026;4;9;Registro fictício para testes
+996677;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0050;Ricardo;Rodonaves;Fernanda;07/04/2026;11/04/2026;4;8;Registro fictício para testes
+959398;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0034;Marcos;Braspress;Bruno;14/05/2026;17/05/2026;3;2;Registro fictício para testes
+203479;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0033;Ricardo;Patrus;Bruno;22/05/2026;04/06/2026;13;9;Registro fictício para testes
+212537;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0023;Ana;Patrus;Fernanda;27/03/2026;08/04/2026;12;8;Registro fictício para testes
+898395;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0008;Ana;JSL;Gabriel;31/03/2026;03/04/2026;3;2;Registro fictício para testes
+402274;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Marcos;JSL;Bruno;06/04/2026;19/04/2026;13;7;Registro fictício para testes
+579142;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0044;Ana;Braspress;Gabriel;03/04/2026;09/04/2026;6;6;Registro fictício para testes
+998392;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0031;Ricardo;Tegma;Fernanda;29/03/2026;03/04/2026;5;0;Registro fictício para testes
+515623;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0034;Ricardo;JSL;Pedro;25/02/2026;28/02/2026;3;2;Registro fictício para testes
+719244;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0048;Marcos;JSL;Bruno;01/04/2026;14/04/2026;13;3;Registro fictício para testes
+985029;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0008;Marcos;Patrus;Amanda;27/04/2026;08/05/2026;11;4;Registro fictício para testes
+893041;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Ana;Rodonaves;Amanda;08/03/2026;14/03/2026;6;7;Registro fictício para testes
+905305;Atrasada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0007;Marcos;Tegma;Amanda;17/04/2026;21/04/2026;4;7;Registro fictício para testes
+131167;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0048;Marcos;JSL;Amanda;03/03/2026;07/03/2026;4;10;Registro fictício para testes
+733952;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0010;Ana;Rodonaves;Gabriel;30/04/2026;08/05/2026;8;1;Registro fictício para testes
+645205;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0030;Marcos;Tegma;Amanda;27/02/2026;13/03/2026;14;7;Registro fictício para testes
+460307;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0035;Marcos;JSL;Amanda;19/04/2026;29/04/2026;10;1;Registro fictício para testes
+994303;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0029;Ana;JSL;Pedro;26/03/2026;02/04/2026;7;2;Registro fictício para testes
+917241;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0046;Marcos;Patrus;Amanda;27/02/2026;14/03/2026;15;2;Registro fictício para testes
+901123;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0037;Ricardo;Patrus;Gabriel;03/04/2026;12/04/2026;9;10;Registro fictício para testes
+599028;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0011;Ricardo;JSL;Amanda;10/03/2026;19/03/2026;9;4;Registro fictício para testes
+746908;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0050;Ana;Tegma;Pedro;08/03/2026;16/03/2026;8;0;Registro fictício para testes
+977589;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0023;Ricardo;Rodonaves;Pedro;17/05/2026;21/05/2026;4;10;Registro fictício para testes
+548945;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0023;Ana;Tegma;Pedro;04/04/2026;07/04/2026;3;10;Registro fictício para testes
+779564;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0038;Marcos;JSL;Bruno;21/04/2026;26/04/2026;5;1;Registro fictício para testes
+664570;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ana;Patrus;Gabriel;01/05/2026;03/05/2026;2;8;Registro fictício para testes
+829765;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0038;Marcos;Tegma;Amanda;18/04/2026;20/04/2026;2;9;Registro fictício para testes
+202472;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0007;Ricardo;Braspress;Bruno;11/04/2026;22/04/2026;11;7;Registro fictício para testes
+274721;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0024;Ana;Braspress;Amanda;26/02/2026;05/03/2026;7;10;Registro fictício para testes
+401314;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0004;Ana;Rodonaves;Amanda;15/03/2026;20/03/2026;5;3;Registro fictício para testes
+985194;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0038;Ana;Tegma;Pedro;11/05/2026;24/05/2026;13;9;Registro fictício para testes
+319927;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0005;Ricardo;Tegma;Gabriel;23/03/2026;31/03/2026;8;4;Registro fictício para testes
+428574;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0027;Ana;Tegma;Gabriel;27/02/2026;09/03/2026;10;8;Registro fictício para testes
+674160;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0002;Ricardo;Rodonaves;Fernanda;26/02/2026;12/03/2026;14;9;Registro fictício para testes
+963930;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0018;Ricardo;Rodonaves;Gabriel;25/04/2026;07/05/2026;12;6;Registro fictício para testes
+647639;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0024;Ana;Braspress;Fernanda;03/03/2026;05/03/2026;2;2;Registro fictício para testes
+434132;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0041;Marcos;Patrus;Bruno;28/03/2026;05/04/2026;8;4;Registro fictício para testes
+730437;Confirmada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Marcos;JSL;Fernanda;20/04/2026;02/05/2026;12;3;Registro fictício para testes
+967412;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0030;Ana;Rodonaves;Amanda;21/04/2026;05/05/2026;14;6;Registro fictício para testes
+385959;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0002;Ana;Tegma;Gabriel;27/04/2026;01/05/2026;4;2;Registro fictício para testes
+120875;Faturada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Ana;Rodonaves;Bruno;21/03/2026;04/04/2026;14;1;Registro fictício para testes
+789365;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0026;Ricardo;Braspress;Fernanda;06/04/2026;18/04/2026;12;1;Registro fictício para testes
+647312;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Ana;JSL;Fernanda;19/03/2026;22/03/2026;3;9;Registro fictício para testes
+972765;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0048;Ricardo;Braspress;Amanda;12/04/2026;19/04/2026;7;3;Registro fictício para testes
+324509;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0029;Ana;Tegma;Gabriel;09/05/2026;13/05/2026;4;0;Registro fictício para testes
+833602;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0021;Ricardo;Patrus;Amanda;15/03/2026;22/03/2026;7;10;Registro fictício para testes
+251950;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0031;Ricardo;Tegma;Bruno;17/04/2026;01/05/2026;14;0;Registro fictício para testes
+875369;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0045;Ricardo;Braspress;Bruno;18/05/2026;02/06/2026;15;8;Registro fictício para testes
+834649;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Marcos;Rodonaves;Fernanda;13/04/2026;25/04/2026;12;7;Registro fictício para testes
+367946;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0006;Marcos;Tegma;Fernanda;21/05/2026;29/05/2026;8;2;Registro fictício para testes
+951703;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0003;Ana;JSL;Amanda;03/03/2026;10/03/2026;7;7;Registro fictício para testes
+542882;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Ricardo;Tegma;Gabriel;10/04/2026;23/04/2026;13;1;Registro fictício para testes
+864654;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0048;Ana;Patrus;Pedro;30/03/2026;10/04/2026;11;0;Registro fictício para testes
+929443;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0001;Ana;Braspress;Bruno;03/03/2026;12/03/2026;9;5;Registro fictício para testes
+265488;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0034;Ricardo;Braspress;Gabriel;12/05/2026;15/05/2026;3;10;Registro fictício para testes
+601602;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0017;Marcos;Rodonaves;Bruno;12/04/2026;21/04/2026;9;4;Registro fictício para testes
+485456;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0026;Ana;Rodonaves;Fernanda;12/05/2026;20/05/2026;8;0;Registro fictício para testes
+741731;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0006;Ana;Braspress;Bruno;12/03/2026;24/03/2026;12;2;Registro fictício para testes
+549737;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0010;Marcos;Tegma;Fernanda;01/04/2026;12/04/2026;11;9;Registro fictício para testes
+651380;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0050;Ana;Patrus;Pedro;21/05/2026;03/06/2026;13;3;Registro fictício para testes
+952924;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0019;Ricardo;Patrus;Amanda;28/04/2026;13/05/2026;15;2;Registro fictício para testes
+326037;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Ricardo;Braspress;Amanda;26/04/2026;07/05/2026;11;2;Registro fictício para testes
+404289;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Ricardo;Patrus;Fernanda;04/05/2026;06/05/2026;2;5;Registro fictício para testes
+580419;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0001;Ana;Braspress;Bruno;24/02/2026;08/03/2026;12;6;Registro fictício para testes
+543852;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0005;Marcos;Rodonaves;Pedro;03/04/2026;16/04/2026;13;0;Registro fictício para testes
+471512;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0001;Ana;Rodonaves;Gabriel;22/04/2026;01/05/2026;9;6;Registro fictício para testes
+488918;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0036;Marcos;Rodonaves;Fernanda;02/04/2026;14/04/2026;12;4;Registro fictício para testes
+455652;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Marcos;Tegma;Gabriel;19/03/2026;28/03/2026;9;6;Registro fictício para testes
+428486;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0009;Ana;Tegma;Bruno;19/04/2026;22/04/2026;3;6;Registro fictício para testes
+969887;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0034;Ana;Patrus;Fernanda;19/04/2026;30/04/2026;11;5;Registro fictício para testes
+994470;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0004;Marcos;Braspress;Pedro;03/05/2026;13/05/2026;10;3;Registro fictício para testes
+372864;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ana;Patrus;Pedro;18/05/2026;27/05/2026;9;7;Registro fictício para testes
+843470;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0032;Ana;Patrus;Pedro;27/03/2026;03/04/2026;7;2;Registro fictício para testes
+313630;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0012;Marcos;Rodonaves;Bruno;08/04/2026;11/04/2026;3;9;Registro fictício para testes
+104326;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0050;Ricardo;Braspress;Amanda;25/04/2026;06/05/2026;11;1;Registro fictício para testes
+198886;Entregue;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0002;Ana;JSL;Amanda;20/03/2026;01/04/2026;12;5;Registro fictício para testes
+439254;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0002;Marcos;Patrus;Amanda;09/05/2026;24/05/2026;15;7;Registro fictício para testes
+106087;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0003;Ricardo;Rodonaves;Amanda;07/03/2026;19/03/2026;12;5;Registro fictício para testes
+151047;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0021;Marcos;JSL;Gabriel;06/05/2026;11/05/2026;5;9;Registro fictício para testes
+367558;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0016;Ana;JSL;Pedro;11/05/2026;19/05/2026;8;3;Registro fictício para testes
+521943;Em transporte;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0042;Ricardo;Braspress;Pedro;03/04/2026;17/04/2026;14;4;Registro fictício para testes
+945522;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Ricardo;Braspress;Bruno;28/03/2026;10/04/2026;13;10;Registro fictício para testes
+309580;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0029;Ana;Patrus;Bruno;05/04/2026;15/04/2026;10;9;Registro fictício para testes
+893237;Reagendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0024;Ricardo;Braspress;Amanda;29/03/2026;01/04/2026;3;10;Registro fictício para testes
+638277;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0030;Ricardo;Braspress;Fernanda;11/05/2026;13/05/2026;2;7;Registro fictício para testes
+650164;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0019;Ana;Patrus;Pedro;03/03/2026;15/03/2026;12;7;Registro fictício para testes
+817555;Em transporte;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0016;Ricardo;Patrus;Bruno;03/05/2026;07/05/2026;4;9;Registro fictício para testes
+147285;Crítica;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0007;Ricardo;Patrus;Amanda;13/03/2026;16/03/2026;3;1;Registro fictício para testes
+696092;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0023;Ana;Rodonaves;Pedro;27/02/2026;12/03/2026;13;8;Registro fictício para testes
+793715;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0012;Marcos;Patrus;Pedro;08/05/2026;21/05/2026;13;1;Registro fictício para testes
+429196;Atrasada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0049;Ricardo;Patrus;Gabriel;21/02/2026;27/02/2026;6;4;Registro fictício para testes
+294078;Aguardando cliente;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0048;Ricardo;Tegma;Pedro;29/04/2026;04/05/2026;5;6;Registro fictício para testes
+514118;Aguardando cliente;Obramax;45.991.011/0001-44;São Paulo;SP;RC0001;Marcos;Patrus;Amanda;20/05/2026;22/05/2026;2;6;Registro fictício para testes
+748543;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0045;Ricardo;Patrus;Bruno;21/03/2026;27/03/2026;6;1;Registro fictício para testes
+300070;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0002;Ricardo;Braspress;Pedro;05/05/2026;07/05/2026;2;3;Registro fictício para testes
+781301;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0028;Ricardo;Rodonaves;Fernanda;28/02/2026;04/03/2026;4;1;Registro fictício para testes
+597013;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Marcos;Braspress;Fernanda;24/03/2026;28/03/2026;4;7;Registro fictício para testes
+571351;Confirmada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0013;Ana;Rodonaves;Amanda;23/03/2026;25/03/2026;2;0;Registro fictício para testes
+761032;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0027;Ana;Rodonaves;Gabriel;21/05/2026;24/05/2026;3;8;Registro fictício para testes
+519095;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0033;Ricardo;Rodonaves;Amanda;18/05/2026;27/05/2026;9;3;Registro fictício para testes
+542503;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0036;Marcos;Tegma;Amanda;16/03/2026;18/03/2026;2;7;Registro fictício para testes
+777568;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0029;Ricardo;Patrus;Pedro;20/03/2026;31/03/2026;11;2;Registro fictício para testes
+460550;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0015;Ricardo;Braspress;Gabriel;28/04/2026;07/05/2026;9;10;Registro fictício para testes
+983390;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0009;Ana;Patrus;Amanda;06/03/2026;21/03/2026;15;10;Registro fictício para testes
+985555;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0040;Marcos;Tegma;Pedro;23/03/2026;06/04/2026;14;10;Registro fictício para testes
+309174;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0039;Ana;JSL;Amanda;06/05/2026;10/05/2026;4;7;Registro fictício para testes
+683879;Faturada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0002;Ana;Tegma;Bruno;22/04/2026;27/04/2026;5;10;Registro fictício para testes
+627935;Faturada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0005;Ana;Patrus;Pedro;30/04/2026;15/05/2026;15;9;Registro fictício para testes
+334981;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0017;Ana;Tegma;Pedro;07/05/2026;17/05/2026;10;8;Registro fictício para testes
+823659;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0039;Ricardo;JSL;Pedro;03/05/2026;18/05/2026;15;7;Registro fictício para testes
+919621;Aguardando cliente;Carrefour;45.543.915/0001-81;Barueri;SP;RC0036;Marcos;Rodonaves;Pedro;08/05/2026;11/05/2026;3;2;Registro fictício para testes
+264660;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0046;Ana;Rodonaves;Amanda;26/04/2026;03/05/2026;7;1;Registro fictício para testes
+450861;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0008;Marcos;Patrus;Amanda;01/03/2026;08/03/2026;7;0;Registro fictício para testes
+400687;Crítica;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0011;Marcos;Tegma;Bruno;23/03/2026;30/03/2026;7;6;Registro fictício para testes
+357374;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0049;Ricardo;Patrus;Fernanda;03/03/2026;15/03/2026;12;2;Registro fictício para testes
+581037;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0044;Ana;JSL;Amanda;31/03/2026;08/04/2026;8;2;Registro fictício para testes
+188896;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0021;Ana;Braspress;Amanda;17/03/2026;20/03/2026;3;0;Registro fictício para testes
+772625;Agendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0037;Marcos;Rodonaves;Bruno;18/05/2026;30/05/2026;12;6;Registro fictício para testes
+680502;Em transporte;Carrefour;45.543.915/0001-81;Barueri;SP;RC0047;Ricardo;Tegma;Bruno;24/02/2026;09/03/2026;13;0;Registro fictício para testes
+253995;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0029;Ricardo;Braspress;Gabriel;16/03/2026;27/03/2026;11;9;Registro fictício para testes
+831351;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0042;Ana;Braspress;Bruno;28/02/2026;09/03/2026;9;1;Registro fictício para testes
+508937;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0034;Ricardo;Tegma;Fernanda;15/03/2026;22/03/2026;7;1;Registro fictício para testes
+646660;Entregue;Obramax;45.991.011/0001-44;São Paulo;SP;RC0049;Ricardo;Braspress;Pedro;13/03/2026;19/03/2026;6;0;Registro fictício para testes
+353063;Em transporte;Obramax;45.991.011/0001-44;São Paulo;SP;RC0047;Ana;Rodonaves;Pedro;08/03/2026;14/03/2026;6;0;Registro fictício para testes
+632151;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0008;Marcos;JSL;Amanda;19/04/2026;01/05/2026;12;4;Registro fictício para testes
+455446;Confirmada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0048;Ricardo;Rodonaves;Gabriel;22/05/2026;31/05/2026;9;9;Registro fictício para testes
+398357;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0046;Ana;Rodonaves;Fernanda;08/04/2026;14/04/2026;6;1;Registro fictício para testes
+301908;Entregue;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0030;Marcos;Braspress;Amanda;17/03/2026;28/03/2026;11;6;Registro fictício para testes
+545526;Agendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0031;Marcos;Patrus;Pedro;11/05/2026;13/05/2026;2;5;Registro fictício para testes
+686120;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0050;Ana;Tegma;Gabriel;01/04/2026;12/04/2026;11;7;Registro fictício para testes
+613321;Reagendada;Carrefour;45.543.915/0001-81;Barueri;SP;RC0011;Marcos;Rodonaves;Fernanda;27/03/2026;09/04/2026;13;7;Registro fictício para testes
+638113;Crítica;Carrefour;45.543.915/0001-81;Barueri;SP;RC0008;Ricardo;Braspress;Amanda;06/05/2026;19/05/2026;13;7;Registro fictício para testes
+487272;Aguardando cliente;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0039;Ana;JSL;Pedro;02/05/2026;12/05/2026;10;5;Registro fictício para testes
+648171;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0008;Ana;Tegma;Bruno;15/04/2026;17/04/2026;2;4;Registro fictício para testes
+929637;Agendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0010;Ricardo;Patrus;Pedro;21/03/2026;23/03/2026;2;4;Registro fictício para testes
+958914;Atrasada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0001;Marcos;Rodonaves;Bruno;25/04/2026;29/04/2026;4;1;Registro fictício para testes
+700896;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0037;Ana;Tegma;Amanda;30/03/2026;08/04/2026;9;7;Registro fictício para testes
+245251;Crítica;Obramax;45.991.011/0001-44;São Paulo;SP;RC0041;Ana;Patrus;Amanda;06/05/2026;20/05/2026;14;2;Registro fictício para testes
+755119;Reagendada;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0025;Marcos;Patrus;Bruno;11/05/2026;25/05/2026;14;8;Registro fictício para testes
+871660;Em transporte;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0042;Marcos;Braspress;Pedro;26/02/2026;07/03/2026;9;9;Registro fictício para testes
+229794;Crítica;Assaí Atacadista;06.057.223/0001-71;São Paulo;SP;RC0006;Marcos;Rodonaves;Gabriel;12/03/2026;24/03/2026;12;9;Registro fictício para testes
+298595;Atrasada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0033;Marcos;JSL;Gabriel;11/03/2026;21/03/2026;10;2;Registro fictício para testes
+315802;Confirmada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0046;Ricardo;Patrus;Pedro;17/04/2026;01/05/2026;14;8;Registro fictício para testes
+717499;Faturada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0032;Marcos;Tegma;Amanda;11/04/2026;19/04/2026;8;2;Registro fictício para testes
+653545;Entregue;Carrefour;45.543.915/0001-81;Barueri;SP;RC0025;Ana;JSL;Pedro;19/05/2026;03/06/2026;15;1;Registro fictício para testes
+251030;Agendada;Obramax;45.991.011/0001-44;São Paulo;SP;RC0017;Marcos;Braspress;Bruno;01/05/2026;07/05/2026;6;6;Registro fictício para testes
+441092;Agendada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0002;Ricardo;JSL;Bruno;15/05/2026;26/05/2026;11;6;Registro fictício para testes
+532876;Entregue;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0017;Ana;JSL;Pedro;12/04/2026;16/04/2026;4;3;Registro fictício para testes
+347978;Atrasada;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0033;Ricardo;Patrus;Pedro;07/03/2026;18/03/2026;11;4;Registro fictício para testes
+679989;Reagendada;Telhanorte;60.597.786/0001-15;São Paulo;SP;RC0005;Ana;JSL;Amanda;12/04/2026;21/04/2026;9;10;Registro fictício para testes
+680990;Aguardando cliente;Leroy Merlin;04.722.690/0001-15;Barueri;SP;RC0016;Ricardo;Braspress;Bruno;20/05/2026;26/05/2026;6;9;Registro fictício para testes
