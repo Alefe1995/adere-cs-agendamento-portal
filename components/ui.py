@@ -52,12 +52,6 @@ def sidebar() -> None:
                 st.page_link("app.py", label=f"{icon}  {label}")
             else:
                 st.page_link(path, label=f"{icon}  {label}")
-        st.markdown(
-            '<div class="nav-card"><span class="nav-avatar">JS</span>'
-            '<span class="nav-user"><b>João Silva</b><br>'
-            '<span class="nav-role">Analista Sênior</span></span></div>',
-            unsafe_allow_html=True,
-        )
 
 
 def header(title: str, subtitle: str = "Última atualização automática pela planilha") -> None:
