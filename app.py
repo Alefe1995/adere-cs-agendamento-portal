@@ -3,157 +3,136 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-# ==========================
-# CONFIGURAÇÕES DA PÁGINA
-# ==========================
+# ==================================================
+# CONFIG
+# ==================================================
 
 st.set_page_config(
-    page_title="Portal Customer Service ADERE",
+    page_title="ADERE Customer Service",
     page_icon="📦",
     layout="wide"
 )
 
-# ==========================
-# CSS CUSTOMIZADO
-# ==========================
+# ==================================================
+# CSS
+# ==================================================
 
-css_file = Path("assets/style.css")
+css_file=Path("assets/style.css")
 
 if css_file.exists():
 
-    with open(css_file, encoding="utf-8") as f:
+    with open(css_file,encoding="utf-8") as f:
 
         st.markdown(
             f"<style>{f.read()}</style>",
             unsafe_allow_html=True
         )
 
-# ==========================
-# CARREGAMENTO DA BASE
-# ==========================
+# ==================================================
+# BASE
+# ==================================================
 
-arquivo = Path("data/agendamentos.xlsx")
+arquivo=Path("data/agendamentos.xlsx")
 
-if not arquivo.exists():
+df=pd.read_excel(arquivo)
 
-    st.error(
-        "Arquivo data/agendamentos.xlsx não encontrado"
-    )
+# converter datas
 
-    st.stop()
+datas=[
 
-try:
-
-    df = pd.read_excel(arquivo)
-
-except Exception as e:
-
-    st.error(
-        f"Erro ao carregar Excel: {e}"
-    )
-
-    st.stop()
-
-# ==========================
-# VALIDAR COLUNAS
-# ==========================
-
-colunas_necessarias = [
-
-    "NF",
-    "Status",
-    "Cliente",
-    "Transportadora",
-    "Analista",
-    "SLA_Dias"
+"Data_Faturamento",
+"Data_Agendada",
+"Data Entrerga",
+"Data Envio de agendamento"
 
 ]
 
-for coluna in colunas_necessarias:
+for c in datas:
 
-    if coluna not in df.columns:
+    if c in df.columns:
 
-        st.error(
-            f"Coluna ausente: {coluna}"
+        df[c]=pd.to_datetime(
+            df[c],
+            errors="coerce"
         )
 
-        st.stop()
-
-# ==========================
-# SIDEBAR FILTROS
-# ==========================
+# ==================================================
+# SIDEBAR
+# ==================================================
 
 st.sidebar.title("🔎 Filtros")
 
-status = st.sidebar.multiselect(
-    "Status",
-    sorted(df["Status"].dropna().unique())
-)
-
-cliente = st.sidebar.multiselect(
+cliente=st.sidebar.multiselect(
     "Cliente",
-    sorted(df["Cliente"].dropna().unique())
+    sorted(df["Cliente"].unique())
 )
 
-transportadora = st.sidebar.multiselect(
-    "Transportadora",
-    sorted(df["Transportadora"].dropna().unique())
+uf=st.sidebar.multiselect(
+    "UF",
+    sorted(df["UF"].unique())
 )
 
-analista = st.sidebar.multiselect(
+analista=st.sidebar.multiselect(
     "Analista",
-    sorted(df["Analista"].dropna().unique())
+    sorted(df["Analista"].unique())
 )
 
-# Aplicar filtros
-
-if status:
-
-    df=df[df["Status"].isin(status)]
+status=st.sidebar.multiselect(
+    "Status",
+    sorted(df["Status"].unique())
+)
 
 if cliente:
-
     df=df[df["Cliente"].isin(cliente)]
 
-if transportadora:
-
-    df=df[df["Transportadora"].isin(transportadora)]
+if uf:
+    df=df[df["UF"].isin(uf)]
 
 if analista:
-
     df=df[df["Analista"].isin(analista)]
 
-# ==========================
-# CABEÇALHO
-# ==========================
+if status:
+    df=df[df["Status"].isin(status)]
 
-st.markdown(
-"""
-<h1 style='text-align:center'>
-📦 ADERE - Customer Service Portal
+# ==================================================
+# HEADER
+# ==================================================
+
+st.markdown("""
+<div style='padding:20px;
+background:linear-gradient(90deg,#111,#222);
+border-radius:15px;
+margin-bottom:20px;'>
+
+<h1 style='color:white'>
+📦 ADERE Customer Service Dashboard
 </h1>
-""",
-unsafe_allow_html=True
-)
 
-st.write("")
+<p style='color:lightgray'>
 
-# ==========================
+Monitoramento operacional de agendamentos
+
+</p>
+
+</div>
+""",unsafe_allow_html=True)
+
+# ==================================================
 # KPI'S
-# ==========================
+# ==================================================
 
 total_nf=len(df)
 
-agendadas=len(
-    df[df["Status"]=="Agendada"]
+reag=len(
+    df[df["Reagendamento?"]=="Sim"]
 )
 
 atrasadas=len(
-    df[df["Status"]=="Atrasada"]
+    df[df["Atrasado"]=="Sim"]
 )
 
-entregues=len(
-    df[df["Status"]=="Entregue"]
+criticas=len(
+    df[df["Prioridade"]=="Crítica"]
 )
 
 sla=round(
@@ -161,16 +140,21 @@ sla=round(
     1
 )
 
-c1,c2,c3,c4,c5=st.columns(5)
+tempo=round(
+    df["Tempo_Parado_Dias"].mean(),
+    1
+)
+
+c1,c2,c3,c4,c5,c6=st.columns(6)
 
 c1.metric(
-    "Total NF",
+    "NF Total",
     total_nf
 )
 
 c2.metric(
-    "Agendadas",
-    agendadas
+    "Reagendamentos",
+    reag
 )
 
 c3.metric(
@@ -179,8 +163,8 @@ c3.metric(
 )
 
 c4.metric(
-    "Entregues",
-    entregues
+    "Críticas",
+    criticas
 )
 
 c5.metric(
@@ -188,94 +172,156 @@ c5.metric(
     sla
 )
 
-st.divider()
-
-# ==========================
-# TABS
-# ==========================
-
-dashboard,dados=st.tabs(
-[
-"📊 Dashboard",
-"📋 Dados"
-]
+c6.metric(
+    "Tempo Parado",
+    tempo
 )
 
-# ==========================
-# DASHBOARD
-# ==========================
+st.write("")
 
-with dashboard:
+# ==================================================
+# LINHA SUPERIOR
+# ==================================================
 
-    col1,col2=st.columns(2)
+col1,col2=st.columns([3,1])
 
-    with col1:
+with col1:
 
-        fig1=px.pie(
-            df,
-            names="Status",
-            title="Entregas por Status"
+    evolucao=(
+        df.groupby(
+            "Data_Faturamento"
         )
+        .size()
+        .reset_index()
+    )
 
-        st.plotly_chart(
-            fig1,
-            use_container_width=True
-        )
+    evolucao.columns=[
+        "Data",
+        "Quantidade"
+    ]
 
-    with col2:
-
-        trans=(
-            df["Transportadora"]
-            .value_counts()
-            .reset_index()
-        )
-
-        trans.columns=[
-            "Transportadora",
-            "Quantidade"
-        ]
-
-        fig2=px.bar(
-            trans,
-            x="Quantidade",
-            y="Transportadora",
-            orientation="h",
-            title="Entregas por Transportadora"
-        )
-
-        st.plotly_chart(
-            fig2,
-            use_container_width=True
-        )
-
-    st.write("")
-
-    fig3=px.histogram(
-        df,
-        x="SLA_Dias",
-        title="Distribuição SLA"
+    fig=px.line(
+        evolucao,
+        x="Data",
+        y="Quantidade",
+        title="Evolução de Agendamentos"
     )
 
     st.plotly_chart(
-        fig3,
+        fig,
         use_container_width=True
     )
 
-# ==========================
-# DADOS
-# ==========================
+with col2:
 
-with dados:
+    st.subheader(
+        "📌 Insights"
+    )
 
-    st.dataframe(
+    st.info(
+        f"""
+        NFs críticas: {criticas}
+        """
+    )
+
+    st.warning(
+        f"""
+        Reagendamentos: {reag}
+        """
+    )
+
+    st.error(
+        f"""
+        Atrasadas: {atrasadas}
+        """
+    )
+
+# ==================================================
+# SEGUNDA LINHA
+# ==================================================
+
+g1,g2,g3=st.columns(3)
+
+with g1:
+
+    fig=px.pie(
         df,
-        use_container_width=True,
-        hide_index=True
+        names="Status",
+        title="Status"
     )
 
-    st.download_button(
-        "⬇ Exportar Excel",
-        data=df.to_csv(index=False),
-        file_name="exportacao.csv",
-        mime="text/csv"
+    st.plotly_chart(
+        fig,
+        use_container_width=True
     )
+
+with g2:
+
+    transp=(
+        df[
+            "Transportadora"
+        ]
+        .value_counts()
+        .reset_index()
+    )
+
+    transp.columns=[
+        "Transportadora",
+        "Qtd"
+    ]
+
+    fig=px.bar(
+        transp,
+        x="Transportadora",
+        y="Qtd",
+        title="Transportadoras"
+    )
+
+    st.plotly_chart(
+        fig,
+        use_container_width=True
+    )
+
+with g3:
+
+    top=(
+        df[
+            "Cliente"
+        ]
+        .value_counts()
+        .head(10)
+        .reset_index()
+    )
+
+    top.columns=[
+        "Cliente",
+        "Qtd"
+    ]
+
+    fig=px.bar(
+        top,
+        x="Qtd",
+        y="Cliente",
+        orientation="h",
+        title="Top Clientes"
+    )
+
+    st.plotly_chart(
+        fig,
+        use_container_width=True
+    )
+
+# ==================================================
+# TABELA
+# ==================================================
+
+st.subheader(
+    "📋 Operação"
+)
+
+st.dataframe(
+    df,
+    use_container_width=True,
+    hide_index=True,
+    height=500
+)
