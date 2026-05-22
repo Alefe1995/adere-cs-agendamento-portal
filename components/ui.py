@@ -49,36 +49,29 @@ def sidebar() -> None:
         )
         for label, path, icon in MENU:
             if path is None:
-                # Home — usa um botão que faz switch_page para a raiz.
-                # st.page_link aceita "app.py" apenas em versões recentes do Streamlit;
-                # para máxima compatibilidade renderizamos como link manual.
-                st.markdown(
-                    f'<a href="/" target="_self" style="display:block;color:#fff;'
-                    f'padding:6px 0;text-decoration:none;font-weight:500">'
-                    f'{icon}&nbsp;&nbsp;{label}</a>',
-                    unsafe_allow_html=True,
-                )
+                st.page_link("app.py", label=f"{icon}  {label}")
             else:
                 st.page_link(path, label=f"{icon}  {label}")
         st.markdown(
-            '<div class="nav-card"><b>JS</b><br>João Silva'
-            '<br><span style="font-size:12px;opacity:.8">Analista Sênior</span></div>',
+            '<div class="nav-card"><span class="nav-avatar">JS</span>'
+            '<span class="nav-user"><b>João Silva</b><br>'
+            '<span class="nav-role">Analista Sênior</span></span></div>',
             unsafe_allow_html=True,
         )
 
 
-def header(title: str, subtitle: str = "Última atualização: automática pela planilha") -> None:
-    c1, c2 = st.columns([0.76, 0.24], vertical_alignment="center")
+def header(title: str, subtitle: str = "Última atualização automática pela planilha") -> None:
+    c1, c2 = st.columns([0.78, 0.22], vertical_alignment="center")
     with c1:
         st.markdown(
             f'<div class="page-title">{title}</div>'
-            f'<div class="muted">{subtitle}</div>',
+            f'<div class="page-subtitle">{subtitle}</div>',
             unsafe_allow_html=True,
         )
     with c2:
-        # Botão informativo (a exportação real está na tela de Relatórios)
+        st.markdown('<div class="updated">Última atualização: dados da planilha</div>', unsafe_allow_html=True)
         st.download_button(
-            "⬇️ Exportar dados",
+            "⇩ Exportar",
             data="Exportação completa disponível na tela Relatórios.",
             file_name="exportacao.txt",
             mime="text/plain",
