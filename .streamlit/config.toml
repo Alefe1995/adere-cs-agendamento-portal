@@ -1,0 +1,20 @@
+[theme]
+# ============================================================
+# ADERE Produtos Auto Adesivos - Tema Corporativo
+# Paleta baseada na identidade visual oficial da ADERE
+# Cor primária: Vermelho ADERE (#E30613)
+# ============================================================
+ 
+primaryColor = "#E30613"
+backgroundColor = "#F5F5F5"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1A1A1A"
+font = "sans serif"
+ 
+[server]
+headless = true
+enableCORS = false
+port = 8501
+ 
+[browser]
+gatherUsageStats = false
