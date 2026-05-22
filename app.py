@@ -15,7 +15,7 @@ with open("assets/style.css") as f:
     )
 
 # Base
-df=pd.read_csv("data/agendamentos.csv")
+df=pd.read_excelv("data/agendamentos.xlsx")
 
 # SIDEBAR
 st.sidebar.title("Filtros")
